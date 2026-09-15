@@ -1,0 +1,45 @@
+name: Sync vocabulary to gist
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - english.md
+      - .github/workflows/sync-vocabulary.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sync-vocabulary-gist
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+
+      - name: Update english.md in gist
+        env:
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+        run: |
+          set -euo pipefail
+          test -n "$GIST_TOKEN"
+          test -s english.md
+
+          jq -n --rawfile content english.md \
+            '{files: {"english.md": {content: $content}}}' \
+            > "$RUNNER_TEMP/gist-update.json"
+
+          curl --fail-with-body --silent --show-error \
+            --request PATCH \
+            --header "Authorization: Bearer $GIST_TOKEN" \
+            --header "Accept: application/vnd.github+json" \
+            --data-binary @"$RUNNER_TEMP/gist-update.json" \
+            --output "$RUNNER_TEMP/gist-response.json" \
+            https://api.github.com/gists/5a14b9b9c8f788462e6c2378972cc79b
