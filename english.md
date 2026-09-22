@@ -40,7 +40,7 @@ Gulf disruption chokes sulphur flows supporting swaths of global industry
 - Gulf disruption has raised shipping costs. — Сбой в Персидском заливе поднял стоимость перевозок.
 - Sulphur flows are critical for fertilizer production. — Поставки серы критичны для производства удобрений.
 - Many industries depend on stable trade routes. — Многие отрасли зависят от стабильных торговых маршрутов.
-<!--SR:!2026-09-17,19,210-->
+<!--SR:!2026-11-14,57,230-->
 
 accomplishments
 ?
@@ -64,7 +64,7 @@ vague
 - The instructions were too vague. — Инструкции были слишком расплывчатыми.
 - She gave a vague answer. — Она дала неясный ответ.
 - I have only a vague idea. — У меня есть только смутное представление.
-<!--SR:!2026-09-11,38,266-->
+<!--SR:!2027-02-06,141,286-->
 
 auxiliary
 ?
@@ -80,7 +80,7 @@ conveys
 - This phrase conveys urgency. — Эта фраза передаёт срочность.
 - Her tone conveys confidence. — Её тон выражает уверенность.
 - The chart conveys the trend clearly. — График ясно показывает тенденцию.
-<!--SR:!2026-09-08,10,190-->
+<!--SR:!2026-10-14,26,210-->
 
 mild obligation
 ?
@@ -88,7 +88,7 @@ mild obligation
 - Should often expresses mild obligation. — Should часто выражает мягкое обязательство.
 - It sounds like mild obligation, not an order. — Это звучит как мягкая необходимость, а не приказ.
 - The rule creates only a mild obligation. — Правило создаёт лишь лёгкое обязательство.
-<!--SR:!2026-09-13,3,250-->
+<!--SR:!2026-09-30,12,270-->
 
 invaluable
 ?
@@ -96,7 +96,7 @@ invaluable
 - Your advice was invaluable. — Твой совет был бесценным.
 - This tool is invaluable for debugging. — Этот инструмент крайне полезен для отладки.
 - Her experience proved invaluable. — Её опыт оказался бесценным.
-<!--SR:!2026-09-15,36,282-->
+<!--SR:!2027-02-05,141,302-->
 
 participle
 ?
@@ -104,7 +104,7 @@ participle
 - Broken is a past participle. — Broken — это причастие прошедшего времени.
 - Running can be a participle. — Running может быть причастием.
 - Participles often describe nouns. — Причастия часто описывают существительные.
-<!--SR:!2026-09-20,41,290-->
+<!--SR:!2027-03-04,165,310-->
 
 unwinding
 ?
@@ -136,7 +136,7 @@ bustling
 - The market was bustling. — Рынок был оживлённым.
 - We walked through a bustling street. — Мы шли по шумной оживлённой улице.
 - The office is bustling on Mondays. — По понедельникам в офисе кипит работа.
-<!--SR:!2026-09-10,5,210-->
+<!--SR:!2026-10-04,16,230-->
 
 nursing their drinks
 ?
@@ -152,6 +152,7 @@ baffling part
 - This is the baffling part of the bug. — Это непонятная часть бага.
 - The baffling part is that it works locally. — Странно то, что локально это работает.
 - I still don't understand the baffling part. — Я всё ещё не понимаю самую запутанную часть.
+<!--SR:!2026-09-24,3,230-->
 
 culprits
 ?
@@ -159,7 +160,7 @@ culprits
 - We found the culprits in the logs. — Мы нашли виновников в логах.
 - Sugar is one of the main culprits. — Сахар — одна из главных причин.
 - The usual culprits were missing. — Обычных виновников не было.
-<!--SR:!2026-09-14,35,230-->
+<!--SR:!2027-01-10,114,250-->
 
 lingering
 ?
@@ -175,7 +176,7 @@ if that doesn't yield anything
 - Try the logs; if that doesn't yield anything, check the database. — Проверь логи; если это ничего не даст, проверь базу данных.
 - If that doesn't yield anything, we can ask support. — Если это не даст результата, можно спросить поддержку.
 - Search by ID first, if that doesn't yield anything. — Сначала ищи по ID, если это ничего не даст.
-<!--SR:!2026-09-16,37,282-->
+<!--SR:!2027-02-09,145,302-->
 
 Don't beat yourself up over it tonight, alright?
 ?
@@ -183,7 +184,7 @@ Don't beat yourself up over it tonight, alright?
 - Don't beat yourself up over one mistake. — Не кори себя за одну ошибку.
 - He beats himself up over every small failure. — Он корит себя за каждую мелкую неудачу.
 - Don't beat yourself up; you did your best. — Не вини себя; ты сделал всё, что мог.
-<!--SR:!2026-09-10,31,262-->
+<!--SR:!2027-01-09,113,282-->
 
 to vent
 ?
@@ -191,7 +192,7 @@ to vent
 - I just need to vent. — Мне просто нужно выговориться.
 - She called me to vent about work. — Она позвонила мне пожаловаться на работу.
 - Writing helps him vent frustration. — Письмо помогает ему выпустить раздражение.
-<!--SR:!2026-09-12,33,286-->
+<!--SR:!2027-01-27,131,306-->
 
 evicts
 ?
@@ -199,7 +200,7 @@ evicts
 - The landlord evicts tenants who do not pay. — Арендодатель выселяет жильцов, которые не платят.
 - The city evicts people from unsafe buildings. — Город выселяет людей из аварийных зданий.
 - A court order evicts the family. — Судебное решение выселяет семью.
-<!--SR:!2026-09-14,16,290-->
+<!--SR:!2026-11-21,64,310-->
 
 brevity
 ?
@@ -215,7 +216,7 @@ Amenable
 - She is amenable to changes. — Она готова к изменениям.
 - The team was amenable to the idea. — Команда была открыта к этой идее.
 - Are you amenable to meeting tomorrow? — Ты не против встретиться завтра?
-<!--SR:!2026-09-14,16,190-->
+<!--SR:!2026-10-31,43,210-->
 
 blunt
 ?
@@ -223,7 +224,7 @@ blunt
 - He gave a blunt answer. — Он дал прямой и резкий ответ.
 - Sorry for being blunt. — Прости за прямоту.
 - Use a sharp knife, not a blunt one. — Используй острый нож, а не тупой.
-<!--SR:!2026-09-16,16,230-->
+<!--SR:!2026-11-10,53,250-->
 
 steering conversation
 ?
@@ -231,7 +232,7 @@ steering conversation
 - She is good at steering conversations. — Она хорошо направляет разговоры.
 - Try steering the conversation back to the topic. — Попробуй вернуть разговор к теме.
 - He kept steering the conversation away from work. — Он всё время уводил разговор от работы.
-<!--SR:!2026-09-13,34,262-->
+<!--SR:!2027-01-21,125,282-->
 
 persuade
 ?
@@ -247,7 +248,7 @@ within which
 - This is the period within which you must reply. — Это срок, в рамках которого нужно ответить.
 - We need a system within which teams can work safely. — Нам нужна система, внутри которой команды смогут работать безопасно.
 - The rules define the limits within which we operate. — Правила задают рамки, в которых мы работаем.
-<!--SR:!2026-09-19,40,286-->
+<!--SR:!2027-02-25,159,306-->
 
 negotiable
 ?
@@ -255,7 +256,7 @@ negotiable
 - The price is negotiable. — Цена обсуждается.
 - My start date is negotiable. — Дату начала можно обсудить.
 - Some terms are not negotiable. — Некоторые условия не обсуждаются.
-<!--SR:!2026-09-15,12,270-->
+<!--SR:!2026-11-01,44,290-->
 
 narrow
 ?
@@ -271,7 +272,7 @@ sifting through noisy output
 - I spent an hour sifting through noisy output. — Я час разбирал шумный вывод.
 - Logs help when sifting through noisy output. — Логи помогают разбираться в шумном выводе.
 - We are sifting through noisy output for errors. — Мы ищем ошибки среди шумного вывода.
-<!--SR:!2026-09-15,15,230-->
+<!--SR:!2026-11-06,49,250-->
 
 narrow things down
 ?
@@ -287,7 +288,7 @@ burdened
 - She felt burdened by responsibility. — Она чувствовала себя обременённой ответственностью.
 - The team is burdened with old code. — Команда отягощена старым кодом.
 - He looked burdened by the news. — Он выглядел подавленным из-за новости.
-<!--SR:!2026-09-15,17,190-->
+<!--SR:!2026-11-03,46,210-->
 
 Brace yourself
 ?
@@ -295,7 +296,7 @@ Brace yourself
 - Brace yourself for bad news. — Приготовься к плохим новостям.
 - Brace yourself, this may take a while. — Держись, это может занять время.
 - She braced herself before opening the email. — Она собралась с духом перед тем, как открыть письмо.
-<!--SR:!2026-09-08,10,270-->
+<!--SR:!2026-10-26,38,290-->
 
 thrive
 ?
@@ -303,7 +304,7 @@ thrive
 - Small businesses can thrive online. — Малый бизнес может процветать онлайн.
 - Plants thrive in sunlight. — Растения хорошо растут на солнце.
 - The project began to thrive. — Проект начал успешно развиваться.
-<!--SR:!2026-09-08,3,250-->
+<!--SR:!2026-09-27,7,250-->
 
 Like the enduring oak tree, our projects thrive through the contributions of thousands worldwide.
 ?
@@ -311,7 +312,7 @@ Like the enduring oak tree, our projects thrive through the contributions of tho
 - Open-source projects thrive through community work. — Open-source проекты процветают благодаря работе сообщества.
 - The metaphor emphasizes strength and longevity. — Метафора подчёркивает силу и долговечность.
 - Thousands worldwide contribute to these projects. — Тысячи людей по всему миру вносят вклад в эти проекты.
-<!--SR:!2026-09-08,4,270-->
+<!--SR:!2026-10-05,16,290-->
 
 intend to
 ?
@@ -343,7 +344,7 @@ deliberate
 - It was a deliberate choice. — Это был осознанный выбор.
 - He spoke in a deliberate tone. — Он говорил размеренным тоном.
 - The change was deliberate, not accidental. — Изменение было намеренным, не случайным.
-<!--SR:!2026-09-18,14,290-->
+<!--SR:!2026-11-13,55,310-->
 
 tucked
 ?
@@ -359,7 +360,7 @@ yield
 - The search yielded no results. — Поиск не дал результатов.
 - This method yields better data. — Этот метод даёт лучшие данные.
 - Cars must yield to pedestrians. — Машины должны уступать пешеходам.
-<!--SR:!2026-09-18,20,210-->
+<!--SR:!2026-11-18,61,230-->
 
 summoned
 ?
@@ -367,7 +368,7 @@ summoned
 - He was summoned to court. — Его вызвали в суд.
 - She summoned the team for a meeting. — Она собрала команду на встречу.
 - He summoned the courage to speak. — Он собрался с духом, чтобы заговорить.
-<!--SR:!2026-09-12,33,286-->
+<!--SR:!2027-01-26,130,306-->
 
 Negotiate
 ?
@@ -375,7 +376,7 @@ Negotiate
 - We need to negotiate the terms. — Нужно обсудить условия.
 - She negotiated a better salary. — Она договорилась о более высокой зарплате.
 - They negotiated for hours. — Они вели переговоры часами.
-<!--SR:!2026-09-19,15,290-->
+<!--SR:!2026-11-18,60,310-->
 
 Swaths
 ?
@@ -391,7 +392,7 @@ Set their sights on the last queen of France, Marie Antoinette
 - They set their sights on a bigger prize. — Они нацелились на более крупную цель.
 - The phrase means to choose a goal. — Фраза означает выбрать цель.
 - Critics set their sights on the new policy. — Критики нацелились на новую политику.
-<!--SR:!2026-09-06,1,210-->
+<!--SR:!2026-09-22,3,230-->
 
 pave the way
 ?
@@ -439,7 +440,7 @@ Ubiquitous
 - Smartphones are ubiquitous now. — Смартфоны сейчас повсюду.
 - Wi-Fi has become ubiquitous. — Wi-Fi стал повсеместным.
 - The pattern is ubiquitous in web apps. — Этот паттерн везде встречается в веб-приложениях.
-<!--SR:!2026-09-15,24,270-->
+<!--SR:!2026-12-17,90,290-->
 
 Blood-splattered
 ?
@@ -447,7 +448,7 @@ Blood-splattered
 - The wall was blood-splattered. — Стена была забрызгана кровью.
 - Police found a blood-splattered shirt. — Полиция нашла рубашку в крови.
 - The scene was blood-splattered and chaotic. — Сцена была кровавой и хаотичной.
-<!--SR:!2026-09-20,16,290-->
+<!--SR:!2026-11-26,67,310-->
 
 assessment
 ?
@@ -455,7 +456,7 @@ assessment
 - The doctor gave an assessment. — Врач дал заключение.
 - We need a risk assessment. — Нам нужна оценка рисков.
 - Her assessment was accurate. — Её оценка была точной.
-<!--SR:!2026-09-17,38,286-->
+<!--SR:!2027-02-16,151,306-->
 
 Obtain
 ?
@@ -463,7 +464,7 @@ Obtain
 - You need to obtain permission first. — Сначала нужно получить разрешение.
 - The data was hard to obtain. — Данные было трудно получить.
 - He obtained a copy of the report. — Он получил копию отчёта.
-<!--SR:!2026-09-11,11,270-->
+<!--SR:!2026-10-29,41,290-->
 
 Desperate
 ?
@@ -511,7 +512,7 @@ seizure
 - He had a seizure at school. — У него случился приступ в школе.
 - The medicine can prevent seizures. — Лекарство может предотвращать припадки.
 - Police announced the seizure of illegal goods. — Полиция объявила об изъятии незаконных товаров.
-<!--SR:!2026-09-15,15,210-->
+<!--SR:!2026-11-04,47,230-->
 
 inferred
 ?
@@ -527,7 +528,7 @@ terse
 - His reply was terse. — Его ответ был кратким и сухим.
 - She sent a terse email. — Она отправила короткое резкое письмо.
 - The notice was terse but clear. — Уведомление было кратким, но понятным.
-<!--SR:!2026-09-18,45,290-->
+<!--SR:!2027-03-18,181,310-->
 
 Resilience
 ?
@@ -543,7 +544,7 @@ Jitter
 - The video call has noticeable jitter. — В видеозвонке заметно дрожание сигнала.
 - High jitter can disrupt audio. — Высокий джиттер может мешать звуку.
 - We measured network jitter. — Мы измерили джиттер сети.
-<!--SR:!2026-09-16,25,270-->
+<!--SR:!2026-12-21,94,290-->
 
 Diverge
 ?
@@ -551,7 +552,7 @@ Diverge
 - Our opinions diverge on this issue. — Наши мнения по этому вопросу расходятся.
 - The two paths diverge here. — Здесь две дороги расходятся.
 - The results began to diverge. — Результаты начали различаться.
-<!--SR:!2026-09-21,42,290-->
+<!--SR:!2027-03-09,169,310-->
 
 Wipeout
 ?
@@ -559,7 +560,7 @@ Wipeout
 - The storm caused a total wipeout. — Шторм вызвал полное разрушение.
 - He had a wipeout while surfing. — Он упал с доски во время сёрфинга.
 - The team suffered a wipeout in the final. — Команда потерпела сокрушительное поражение в финале.
-<!--SR:!2026-09-06,3,250-->
+<!--SR:!2026-09-29,11,270-->
 
 Stoked
 ?
@@ -591,7 +592,7 @@ Settle
 - They settled in a small town. — Они поселились в маленьком городе.
 - Let's settle this question now. — Давай уладим этот вопрос сейчас.
 - The dust settled on the table. — Пыль осела на столе.
-<!--SR:!2026-09-10,19,250-->
+<!--SR:!2026-11-24,67,270-->
 
 Perpetually stoked
 ?
@@ -607,6 +608,7 @@ Double overhead
 - The waves were double overhead today. — Сегодня волны были вдвое выше роста человека.
 - He surfed a double-overhead swell. — Он катался на волнах вдвое выше роста человека.
 - Double-overhead waves require experience. — Такие высокие волны требуют опыта.
+<!--SR:!2026-09-23,3,250-->
 
 England’s resilience faces ultimate test against Argentina in World Cup semi-final
 ?
@@ -622,7 +624,7 @@ Grumble
 - He grumbled about the weather. — Он ворчал из-за погоды.
 - Stop grumbling and help me. — Перестань ворчать и помоги мне.
 - She grumbled under her breath. — Она проворчала себе под нос.
-<!--SR:!2026-09-15,12,270-->
+<!--SR:!2026-11-02,45,290-->
 
 Was really thrilled
 ?
@@ -638,7 +640,7 @@ swell
 - Her ankle began to swell. — Её лодыжка начала опухать.
 - A large swell reached the beach. — К берегу пришла большая волна.
 - The crowd swelled after lunch. — После обеда толпа увеличилась.
-<!--SR:!2026-09-11,20,250-->
+<!--SR:!2026-11-28,70,270-->
 
 Soaked
 ?
@@ -654,7 +656,7 @@ faltering
 - Her voice was faltering. — Её голос дрожал и срывался.
 - The recovery is faltering. — Восстановление даёт сбой.
 - He took a faltering step. — Он сделал неуверенный шаг.
-<!--SR:!2026-09-13,3,230-->
+<!--SR:!2026-09-27,9,250-->
 
 turnaround
 ?
@@ -678,7 +680,7 @@ Halt
 - The project came to a halt. — Проект остановился.
 - They halted production. — Они приостановили производство.
 - The train halted at the station. — Поезд остановился на станции.
-<!--SR:!2026-09-11,32,270-->
+<!--SR:!2027-01-17,121,290-->
 
 New York has halted construction of large data centers for one year, citing their rising electricity use and the risk of burdening local communities
 ?
@@ -734,7 +736,7 @@ urged
 - Doctors urged people to rest. — Врачи настоятельно призвали людей отдохнуть.
 - She urged him to apply. — Она убеждала его подать заявку.
 - The report urged immediate action. — В отчёте настоятельно рекомендовали действовать немедленно.
-<!--SR:!2026-09-13,15,230-->
+<!--SR:!2026-11-05,48,250-->
 
 obsessed
 ?
@@ -742,7 +744,7 @@ obsessed
 - She is obsessed with perfect details. — Она одержима идеальными деталями.
 - He became obsessed with the game. — Он слишком увлёкся игрой.
 - I'm not obsessed with numbers. — Я не зациклен на цифрах.
-<!--SR:!2026-09-06,1,210-->
+<!--SR:!2026-10-01,10,230-->
 
 choke
 ?
@@ -750,7 +752,7 @@ choke
 - He started to choke on his food. — Он начал давиться едой.
 - Smoke made her choke. — От дыма она начала задыхаться.
 - The blocked road choked traffic. — Перекрытая дорога парализовала движение.
-<!--SR:!2026-09-12,7,250-->
+<!--SR:!2026-10-13,25,270-->
 
 Endorse
 ?
@@ -766,7 +768,7 @@ embarrass
 - Please don't embarrass me. — Пожалуйста, не смущай меня.
 - His joke embarrassed her. — Его шутка поставила её в неловкое положение.
 - I didn't mean to embarrass you. — Я не хотел тебя смутить.
-<!--SR:!2026-09-08,3,230-->
+<!--SR:!2026-09-27,9,250-->
 
 unveil
 ?
@@ -782,7 +784,7 @@ sentinel
 - A sentinel guarded the gate. — Часовой охранял ворота.
 - The sentinel stood watch all night. — Часовой нёс службу всю ночь.
 - The system uses a sentinel value. — Система использует сторожевое значение.
-<!--SR:!2026-09-14,16,290-->
+<!--SR:!2026-11-22,64,310-->
 
 harness
 ?
@@ -790,7 +792,7 @@ harness
 - The horse wore a leather harness. — На лошади была кожаная упряжь.
 - We can harness solar energy. — Мы можем использовать солнечную энергию.
 - The team harnessed its experience. — Команда задействовала свой опыт.
-<!--SR:!2026-09-14,11,270-->
+<!--SR:!2026-10-28,40,290-->
 
 aims
 ?
@@ -806,7 +808,7 @@ densely populated
 - Tokyo is densely populated. — Токио густонаселён.
 - It is a densely populated area. — Это район с высокой плотностью населения.
 - Densely populated cities need more transport. — Густонаселённым городам нужно больше транспорта.
-<!--SR:!2026-09-13,15,290-->
+<!--SR:!2026-11-15,58,310-->
 
 national forest preserve
 ?
@@ -822,7 +824,7 @@ gorge
 - A river runs through the gorge. — Через ущелье течёт река.
 - We looked down into the gorge. — Мы посмотрели вниз, в ущелье.
 - The road follows the narrow gorge. — Дорога идёт вдоль узкого ущелья.
-<!--SR:!2026-09-13,10,250-->
+<!--SR:!2026-10-23,35,270-->
 
 established
 ?
@@ -830,6 +832,7 @@ established
 - This is an established rule. — Это установленное правило.
 - She is an established writer. — Она признанная писательница.
 - The company was established in 1998. — Компания была основана в 1998 году.
+<!--SR:!2026-09-23,4,270-->
 
 most jaded
 ?
@@ -845,7 +848,7 @@ pile
 - There is a pile of books here. — Здесь куча книг.
 - She put the papers in a pile. — Она сложила бумаги в стопку.
 - Dirty dishes piled up. — Грязная посуда накопилась.
-<!--SR:!2026-09-12,9,250-->
+<!--SR:!2026-09-23,5,230-->
 
 45 nautical miles
 ?
@@ -861,7 +864,7 @@ they take turns being a tower and a towee
 - They take turns being a tower and a towee. — Они по очереди выполняют эти роли.
 - The children took turns in the game. — Дети играли по очереди.
 - We take turns carrying the bags. — Мы по очереди несём сумки.
-<!--SR:!2026-09-06,3,250-->
+<!--SR:!2026-09-29,11,270-->
 
 bidding
 ?
@@ -869,7 +872,7 @@ bidding
 - Bidding starts at noon. — Торги начинаются в полдень.
 - Several firms are bidding for the contract. — Несколько компаний участвуют в конкурсе на контракт.
 - The house went above the asking price in bidding. — На торгах за дом предложили больше запрошенной цены.
-<!--SR:!2026-09-19,9,230-->
+<!--SR:!2026-10-18,29,250-->
 
 public consciousness
 ?
@@ -901,7 +904,7 @@ stalled
 - The talks have stalled. — Переговоры застопорились.
 - The car stalled at the lights. — Машина заглохла на светофоре.
 - Progress stalled last week. — На прошлой неделе прогресс остановился.
-<!--SR:!2026-09-15,12,270-->
+<!--SR:!2026-09-24,6,250-->
 
 investigate
 ?
@@ -909,7 +912,7 @@ investigate
 - Police are investigating the case. — Полиция расследует это дело.
 - We need to investigate the error. — Нам нужно изучить ошибку.
 - The report investigates the cause. — В отчёте исследуется причина.
-<!--SR:!2026-09-08,5,210-->
+<!--SR:!2026-10-03,15,230-->
 
 sultry August evening
 ?
@@ -917,7 +920,7 @@ sultry August evening
 - It was a sultry August evening. — Это был душный августовский вечер.
 - We sat outside on the sultry evening. — Мы сидели на улице тёплым душным вечером.
 - The air felt sultry and still. — Воздух был душным и неподвижным.
-<!--SR:!2026-09-13,15,290-->
+<!--SR:!2026-11-16,59,310-->
 
 crouched
 ?
@@ -925,7 +928,7 @@ crouched
 - She crouched behind the wall. — Она присела за стеной.
 - The cat crouched before jumping. — Кот пригнулся перед прыжком.
 - He crouched low in the grass. — Он низко пригнулся в траве.
-<!--SR:!2026-09-06,1,190-->
+<!--SR:!2026-10-01,10,230-->
 
 scent
 ?
@@ -941,7 +944,7 @@ Odor
 - There was an odd odor in the room. — В комнате был странный запах.
 - The odor came from the fridge. — Запах шёл из холодильника.
 - Paint has a strong odor. — У краски резкий запах.
-<!--SR:!2026-09-07,3,230-->
+<!--SR:!2026-09-28,10,250-->
 
 Fragrance
 ?
@@ -957,7 +960,7 @@ Aroma
 - The aroma of bread was wonderful. — Аромат хлеба был чудесным.
 - Coffee aroma woke me up. — Аромат кофе разбудил меня.
 - Garlic added a strong aroma. — Чеснок добавил сильный аромат.
-<!--SR:!2026-09-09,11,270-->
+<!--SR:!2026-10-28,41,290-->
 
 villain
 ?
@@ -965,7 +968,7 @@ villain
 - The villain appears at the end. — Злодей появляется в конце.
 - He played the villain in the film. — Он сыграл злодея в фильме.
 - Every story needs a good villain. — В каждой истории нужен хороший злодей.
-<!--SR:!2026-09-07,16,290-->
+<!--SR:!2026-09-26,8,270-->
 
 rigors
 ?
@@ -973,7 +976,7 @@ rigors
 - She knew the rigors of military life. — Она знала тяготы военной жизни.
 - The job has its rigors. — У этой работы есть свои трудности.
 - Training prepares you for the rigors ahead. — Тренировка готовит к предстоящим испытаниям.
-<!--SR:!2026-09-06,1,190-->
+<!--SR:!2026-09-25,5,190-->
 
 until after
 ?
@@ -989,7 +992,7 @@ startling
 - The report revealed a startling fact. — В отчёте обнаружился поразительный факт.
 - She made a startling discovery. — Она сделала неожиданное открытие.
 - The result was startlingly high. — Результат оказался поразительно высоким.
-<!--SR:!2026-09-06,2,170-->
+<!--SR:!2026-09-22,5,190-->
 
 the latter movies omitted
 ?
@@ -997,7 +1000,7 @@ the latter movies omitted
 - The latter movies omitted this character. — В последующих фильмах этого персонажа исключили.
 - The summary omitted the latter movies. — В обзоре пропустили последние фильмы.
 - Later editions omitted that scene. — В поздних изданиях эту сцену убрали.
-<!--SR:!2026-09-12,2,190-->
+<!--SR:!2026-09-23,5,210-->
 
 haunted
 ?
@@ -1021,7 +1024,7 @@ hitchhiker
 - We picked up a hitchhiker. — Мы подвезли автостопщика.
 - The hitchhiker stood by the road. — Автостопщик стоял у дороги.
 - She traveled as a hitchhiker. — Она путешествовала автостопом.
-<!--SR:!2026-09-06,3,230-->
+<!--SR:!2026-09-27,9,250-->
 
 dawn
 ?
@@ -1029,7 +1032,7 @@ dawn
 - We left at dawn. — Мы уехали на рассвете.
 - Dawn came slowly over the hills. — Рассвет медленно пришёл над холмами.
 - It was the dawn of a new era. — Это было началом новой эпохи.
-<!--SR:!2026-09-13,10,250-->
+<!--SR:!2026-10-22,34,270-->
 
 prosperous
 ?
@@ -1045,7 +1048,7 @@ stunted corn
 - The field had stunted corn. — На поле росла низкорослая кукуруза.
 - Drought caused the stunted corn. — Засуха привела к задержке роста кукурузы.
 - The farmer worried about the stunted corn. — Фермер беспокоился из-за низкорослой кукурузы.
-<!--SR:!2026-09-09,11,270-->
+<!--SR:!2026-10-30,42,290-->
 
 pavement
 ?
@@ -1053,7 +1056,7 @@ pavement
 - Keep to the pavement. — Иди по тротуару.
 - The pavement was wet. — Тротуар был мокрым.
 - Workers repaired the pavement. — Рабочие ремонтировали дорожное покрытие.
-<!--SR:!2026-09-07,3,250-->
+<!--SR:!2026-09-27,7,250-->
 
 tossed the bottle in a ditch
 ?
@@ -1061,6 +1064,7 @@ tossed the bottle in a ditch
 - He tossed the bottle in a ditch. — Он бросил бутылку в канаву.
 - She tossed the wrapper into a bin. — Она бросила обёртку в урну.
 - The bottle lay in the ditch. — Бутылка лежала в канаве.
+<!--SR:!2026-09-23,3,250-->
 
 frying grease
 ?
@@ -1068,6 +1072,7 @@ frying grease
 - The pan was covered in frying grease. — Сковорода была покрыта жиром от жарки.
 - Hot frying grease can burn you. — Горячий жир для жарки может обжечь.
 - Pour the grease into a jar. — Перелей жир в банку.
+<!--SR:!2026-09-22,1,230-->
 
 counter peer
 ?
@@ -1075,7 +1080,7 @@ counter peer
 - The counter peer sent a reply. — Одноранговый узел на другой стороне отправил ответ.
 - Each peer knows its counter peer. — Каждый узел знает свой парный узел.
 - The connection failed at the remote peer. — Соединение сбилось на удалённом узле.
-<!--SR:!2026-09-11,8,230-->
+<!--SR:!2026-10-14,26,250-->
 
 booths
 ?
@@ -1083,6 +1088,7 @@ booths
 - We sat in one of the booths. — Мы сели в одну из кабинок.
 - The restaurant has red booths. — В ресторане есть красные кабинки.
 - Companies set up booths at the fair. — Компании установили стенды на ярмарке.
+<!--SR:!2026-09-23,3,250-->
 
 He swung round on his stool and faced him
 ?
@@ -1090,7 +1096,7 @@ He swung round on his stool and faced him
 - He swung round on his stool and faced him. — Он повернулся на табурете лицом к нему.
 - She swung round when she heard her name. — Она резко обернулась, услышав своё имя.
 - He faced him without fear. — Он посмотрел ему в лицо без страха.
-<!--SR:!2026-09-12,14,290-->
+<!--SR:!2026-11-13,56,310-->
 
 He frowned at the dirty cotton bulging from a rip in the stool next to Rambo and sat reluctantly
 ?
@@ -1098,7 +1104,7 @@ He frowned at the dirty cotton bulging from a rip in the stool next to Rambo and
 - He frowned at the dirty cotton. — Он нахмурился, глядя на грязную вату.
 - Cotton bulged from a rip in the stool. — Вата выпирала из прорехи в табурете.
 - She sat down reluctantly. — Она неохотно села.
-<!--SR:!2026-09-12,9,250-->
+<!--SR:!2026-10-20,32,270-->
 
 vagrant
 ?
@@ -1106,6 +1112,7 @@ vagrant
 - A vagrant slept near the station. — Бродяга спал возле станции.
 - The novel follows a young vagrant. — Роман рассказывает о молодом бродяге.
 - He lived as a vagrant for years. — Он много лет жил как бродяга.
+<!--SR:!2026-09-23,3,250-->
 
 strollers
 ?
@@ -1113,7 +1120,7 @@ strollers
 - Parents pushed strollers in the park. — Родители катили детские коляски в парке.
 - The shop sells baby strollers. — Магазин продаёт детские коляски.
 - Evening strollers filled the street. — Вечером улица была полна гуляющих людей.
-<!--SR:!2026-09-14,11,270-->
+<!--SR:!2026-10-30,42,290-->
 
 drooped
 ?
@@ -1121,7 +1128,7 @@ drooped
 - His shoulders drooped. — Его плечи поникли.
 - The flowers drooped in the heat. — Цветы поникли от жары.
 - Her smile drooped at the news. — При этой новости её улыбка угасла.
-<!--SR:!2026-09-06,1,190-->
+<!--SR:!2026-09-25,5,210-->
 
 abruptly
 ?
@@ -1129,7 +1136,7 @@ abruptly
 - The meeting ended abruptly. — Встреча закончилась внезапно.
 - She stopped abruptly. — Она резко остановилась.
 - He left abruptly after lunch. — Он внезапно ушёл после обеда.
-<!--SR:!2026-09-12,9,250-->
+<!--SR:!2026-10-19,32,270-->
 
 As it is, I've half a notion to lock you up for the inconvenience you've caused me
 ?
@@ -1137,7 +1144,7 @@ As it is, I've half a notion to lock you up for the inconvenience you've caused 
 - I've half a notion to leave now. — Я подумываю уйти прямо сейчас.
 - The delay caused me real inconvenience. — Задержка доставила мне серьёзные неудобства.
 - He threatened to lock them up. — Он пригрозил запереть их.
-<!--SR:!2026-09-14,16,290-->
+<!--SR:!2026-11-20,64,310-->
 
 exhaust fumes
 ?
@@ -1145,7 +1152,7 @@ exhaust fumes
 - Exhaust fumes filled the street. — Выхлопные газы заполнили улицу.
 - The garage smelled of exhaust fumes. — В гараже пахло выхлопными газами.
 - Exhaust fumes are harmful to breathe. — Выхлопными газами вредно дышать.
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-10-03,15,290-->
 
 nuisance
 ?
@@ -1153,7 +1160,7 @@ nuisance
 - The noise is a real nuisance. — Этот шум — настоящая помеха.
 - Mosquitoes are a nuisance in summer. — Комары летом очень надоедают.
 - Sorry to be a nuisance. — Извини, что беспокою.
-<!--SR:!2026-09-19,15,290-->
+<!--SR:!2026-11-19,61,310-->
 
 porches
 ?
@@ -1161,7 +1168,7 @@ porches
 - People sat on their porches. — Люди сидели на своих верандах.
 - The house has two porches. — У дома два крыльца.
 - We waited on the front porch. — Мы ждали на переднем крыльце.
-<!--SR:!2026-09-13,15,290-->
+<!--SR:!2026-11-17,60,310-->
 
 switched the ignition
 ?
@@ -1185,7 +1192,7 @@ Then you're one up on me
 - Then you're one up on me. — Тогда ты на шаг впереди меня.
 - She is one up on me in French. — Она лучше меня знает французский.
 - You are one step ahead of us. — Ты на шаг впереди нас.
-<!--SR:!2026-09-12,14,290-->
+<!--SR:!2026-11-14,57,310-->
 
 heave
 ?
@@ -1201,7 +1208,7 @@ infringement
 - The company was sued for copyright infringement. — На компанию подали в суд за нарушение авторских прав.
 - This is an infringement of privacy. — Это нарушение неприкосновенности частной жизни.
 - They reported a trademark infringement. — Они сообщили о нарушении товарного знака.
-<!--SR:!2026-09-14,11,270-->
+<!--SR:!2026-10-29,41,290-->
 
 The company hopes the restructuring will revive growth after U.S. spirits sales weakened
 ?
@@ -1217,7 +1224,7 @@ preceding
 - Read the preceding paragraph. — Прочитай предыдущий абзац.
 - The preceding year was difficult. — Предыдущий год был трудным.
 - This follows the preceding section. — Это следует за предшествующим разделом.
-<!--SR:!2026-09-06,12,270-->
+<!--SR:!2026-11-02,45,290-->
 
 constituting
 ?
@@ -1233,7 +1240,7 @@ convalescing
 - She is convalescing after surgery. — Она восстанавливается после операции.
 - He spent weeks convalescing at home. — Он несколько недель выздоравливал дома.
 - The convalescing patient needs rest. — Выздоравливающему пациенту нужен отдых.
-<!--SR:!2026-09-06,3,210-->
+<!--SR:!2026-09-26,8,230-->
 
 turpentine
 ?
@@ -1241,7 +1248,7 @@ turpentine
 - The artist cleaned the brush with turpentine. — Художник очистил кисть скипидаром.
 - Turpentine has a strong smell. — У скипидара резкий запах.
 - Keep turpentine away from heat. — Держи скипидар вдали от источников тепла.
-<!--SR:!2026-09-12,14,290-->
+<!--SR:!2026-11-11,54,310-->
 
 scaffold
 ?
@@ -1249,6 +1256,7 @@ scaffold
 - Workers stood on the scaffold. — Рабочие стояли на строительных лесах.
 - The scaffold surrounded the building. — Строительные леса окружали здание.
 - They removed the scaffold yesterday. — Вчера они сняли строительные леса.
+<!--SR:!2026-09-25,4,270-->
 
 stoop
 ?
@@ -1256,6 +1264,7 @@ stoop
 - He tends to stoop when he walks. — Он склонен сутулиться при ходьбе.
 - She stooped to pick up the key. — Она наклонилась, чтобы поднять ключ.
 - We sat on the front stoop. — Мы сидели на крыльце перед входом.
+<!--SR:!2026-09-23,3,250-->
 
 Nomadic
 ?
@@ -1263,7 +1272,7 @@ Nomadic
 - Nomadic people move with the seasons. — Кочевые народы перемещаются вслед за сезонами.
 - He enjoys a nomadic lifestyle. — Ему нравится кочевой образ жизни.
 - The group lived a nomadic life. — Группа вела кочевой образ жизни.
-<!--SR:!2026-09-20,16,290-->
+<!--SR:!2026-11-25,66,310-->
 
 Sedentary
 ?
@@ -1271,7 +1280,7 @@ Sedentary
 - Office work is often sedentary. — Офисная работа часто сидячая.
 - A sedentary lifestyle can harm your health. — Малоподвижный образ жизни может вредить здоровью.
 - She has a sedentary job. — У неё сидячая работа.
-<!--SR:!2026-09-07,2,210-->
+<!--SR:!2026-09-23,6,230-->
 
 Gross
 ?
@@ -1279,7 +1288,7 @@ Gross
 - Gross income is before tax. — Валовой доход указан до вычета налогов.
 - The film earned a high gross. — Фильм собрал большую кассу.
 - That smell is gross. — Этот запах отвратительный.
-<!--SR:!2026-09-21,11,270-->
+<!--SR:!2026-10-31,40,290-->
 
 conspicuous
 ?
@@ -1287,6 +1296,7 @@ conspicuous
 - She wore a conspicuous red coat. — На ней было заметное красное пальто.
 - The error was conspicuous. — Ошибка бросалась в глаза.
 - Try not to be too conspicuous. — Старайся не слишком выделяться.
+<!--SR:!2026-09-23,3,250-->
 
 valiant
 ?
@@ -1294,7 +1304,7 @@ valiant
 - They made a valiant effort. — Они предприняли доблестную попытку.
 - The firefighter was valiant. — Пожарный проявил храбрость.
 - She gave a valiant defence. — Она доблестно защищалась.
-<!--SR:!2026-09-06,1,190-->
+<!--SR:!2026-09-23,2,170-->
 
 shrugged
 ?
@@ -1302,6 +1312,7 @@ shrugged
 - He shrugged and walked away. — Он пожал плечами и ушёл.
 - She shrugged at the question. — Она пожала плечами в ответ на вопрос.
 - I shrugged because I did not know. — Я пожал плечами, потому что не знал.
+<!--SR:!2026-09-22,3,250-->
 
 book of matches
 ?
@@ -1309,6 +1320,7 @@ book of matches
 - He bought a book of matches. — Он купил книжечку спичек.
 - A book of matches lay on the table. — На столе лежала книжечка спичек.
 - She lit a candle with a match from the book. — Она зажгла свечу спичкой из книжечки.
+<!--SR:!2026-09-23,4,270-->
 
 crude
 ?
@@ -1316,6 +1328,7 @@ crude
 - Crude oil is refined into fuel. — Сырую нефть перерабатывают в топливо.
 - The drawing was crude but clear. — Рисунок был грубым, но понятным.
 - He made a crude joke. — Он пошутил грубо.
+<!--SR:!2026-09-24,4,270-->
 
 overlapping
 ?
@@ -1323,7 +1336,7 @@ overlapping
 - The meetings are overlapping. — Встречи частично накладываются друг на друга.
 - We have overlapping interests. — У нас пересекающиеся интересы.
 - The two circles are overlapping. — Два круга перекрываются.
-<!--SR:!2026-09-06,1,210-->
+<!--SR:!2026-09-22,3,210-->
 
 ridiculous
 ?
@@ -1331,6 +1344,7 @@ ridiculous
 - That price is ridiculous. — Эта цена нелепа.
 - He looked ridiculous in that hat. — В той шляпе он выглядел смешно.
 - The idea sounds ridiculous. — Идея звучит абсурдно.
+<!--SR:!2026-09-24,3,250-->
 
 sophisticated
 ?
@@ -1338,6 +1352,7 @@ sophisticated
 - This is a sophisticated system. — Это сложная и продвинутая система.
 - She has sophisticated taste. — У неё утончённый вкус.
 - The attack used sophisticated tools. — В атаке использовались передовые инструменты.
+<!--SR:!2026-09-24,3,230-->
 
 Across the board
 ?
@@ -1345,6 +1360,7 @@ Across the board
 - Prices rose across the board. — Цены выросли повсеместно.
 - We improved performance across the board. — Мы улучшили производительность по всем направлениям.
 - The cuts apply across the board. — Сокращения касаются всех без исключения.
+<!--SR:!2026-09-23,2,190-->
 
 Astra excels at long-running tasks
 ?
@@ -1352,7 +1368,7 @@ Astra особенно хорошо справляется с длительны
 - Astra excels at long-running tasks. — Astra отлично справляется с длительными задачами.
 - This model excels at complex work. — Эта модель особенно хороша в сложной работе.
 - The task may run for several hours. — Задача может выполняться несколько часов.
-<!--SR:!2026-09-08,3,250-->
+<!--SR:!2026-09-28,10,270-->
 
 Incorporated
 ?
@@ -1360,6 +1376,7 @@ Incorporated
 - The company was incorporated in 2010. — Компания была зарегистрирована как корпорация в 2010 году.
 - Feedback was incorporated into the plan. — Отзывы включили в план.
 - The town was incorporated last century. — Город получил официальный статус в прошлом веке.
+<!--SR:!2026-09-23,3,250-->
 
 I get the final result with the new context incorporated
 ?
@@ -1367,6 +1384,7 @@ I get the final result with the new context incorporated
 - I reviewed the answer with your feedback incorporated. — Я проверил ответ с учётом твоих замечаний.
 - The report was updated with the new data incorporated. — Отчёт обновили с учётом новых данных.
 - Here is the plan with all changes incorporated. — Вот план, в котором учтены все изменения.
+<!--SR:!2026-09-22,2,230-->
 
 scattered
 ?
@@ -1374,6 +1392,7 @@ scattered
 - Papers were scattered across the floor. — Бумаги были разбросаны по полу.
 - Scattered clouds appeared by noon. — К полудню появились отдельные облака.
 - The houses are scattered along the coast. — Дома разбросаны вдоль побережья.
+<!--SR:!2026-09-23,3,250-->
 
 resemblance
 ?
@@ -1381,13 +1400,7 @@ resemblance
 - She bears a resemblance to her mother. — Она похожа на свою мать.
 - The resemblance is striking. — Сходство поразительное.
 - I see no resemblance between them. — Я не вижу между ними сходства.
-
-eligibility
-?
-соответствие требованиям; право на участие или получение чего-либо
-- Check your eligibility before applying. — Перед подачей заявки проверьте соответствие требованиям.
-- Age affects eligibility for the program. — Возраст влияет на право участия в программе.
-- She confirmed his eligibility for the benefit. — Она подтвердила его право на пособие.
+<!--SR:!2026-09-23,3,250-->
 
 hummed
 ?
@@ -1395,6 +1408,7 @@ hummed
 - She hummed a familiar tune. — Она напевала знакомую мелодию.
 - The engine hummed quietly. — Двигатель тихо гудел.
 - He hummed while he worked. — Он напевал во время работы.
+<!--SR:!2026-09-24,3,230-->
 
 rattled
 ?
@@ -1402,6 +1416,7 @@ rattled
 - The windows rattled in the wind. — Окна задребезжали от ветра.
 - She rattled the keys in her hand. — Она погремела ключами в руке.
 - The question rattled him. — Вопрос выбил его из колеи.
+<!--SR:!2026-09-23,3,250-->
 
 shiver
 ?
@@ -1409,6 +1424,7 @@ shiver
 - I began to shiver in the cold. — Я начал дрожать от холода.
 - The sound made her shiver. — От этого звука она вздрогнула.
 - A shiver ran down my spine. — По моей спине пробежала дрожь.
+<!--SR:!2026-09-23,3,250-->
 
 bundled
 ?
@@ -1416,6 +1432,7 @@ bundled
 - The cables were bundled together. — Кабели были связаны вместе.
 - The software comes bundled with the device. — Программа поставляется вместе с устройством.
 - She bundled the clothes into a bag. — Она быстро сложила одежду в сумку.
+<!--SR:!2026-09-22,3,250-->
 
 swivel chair
 ?
@@ -1423,6 +1440,7 @@ swivel chair
 - He sat in a swivel chair. — Он сидел во вращающемся кресле.
 - She turned the swivel chair around. — Она развернула вращающееся кресло.
 - The office needs a new swivel chair. — В офис нужно новое вращающееся кресло.
+<!--SR:!2026-09-22,3,250-->
 
 squeaking back
 ?
@@ -1430,6 +1448,7 @@ squeaking back
 - The old chair seemed to be squeaking back. — Старый стул словно скрипел в ответ.
 - The door kept squeaking as it moved. — Дверь продолжала скрипеть при движении.
 - The floorboards squeaked back under his steps. — Половицы отвечали скрипом на его шаги.
+<!--SR:!2026-09-23,3,250-->
 
 bulged out
 ?
@@ -1437,6 +1456,7 @@ bulged out
 - His pockets bulged out. — Его карманы выпирали.
 - The wall bulged out near the door. — Стена выпирала возле двери.
 - The bag bulged out at the sides. — Сумка раздулась по бокам.
+<!--SR:!2026-09-23,2,230-->
 
 rioting
 ?
@@ -1444,6 +1464,7 @@ rioting
 - Rioting broke out after the match. — После матча начались массовые беспорядки.
 - Police arrested several people for rioting. — Полиция задержала нескольких человек за участие в беспорядках.
 - The streets were damaged during the rioting. — Во время беспорядков улицы пострадали.
+<!--SR:!2026-09-23,3,250-->
 
 itchy
 ?
@@ -1451,6 +1472,7 @@ itchy
 - This rash is very itchy. — Эта сыпь сильно чешется.
 - The sweater feels itchy. — Этот свитер колется.
 - My eyes are dry and itchy. — У меня сухие и зудящие глаза.
+<!--SR:!2026-09-23,3,250-->
 
 possessed
 ?
@@ -1458,6 +1480,7 @@ possessed
 - He looked as if he were possessed. — Он выглядел словно одержимый.
 - She possessed great patience. — Она обладала большим терпением.
 - Possessed by fear, he ran away. — Охваченный страхом, он убежал.
+<!--SR:!2026-09-23,3,250-->
 
 Then what possessed you to let it grow
 ?
@@ -1465,6 +1488,7 @@ Then what possessed you to let it grow
 - What possessed you to do that? — Что на тебя нашло, раз ты это сделал?
 - He let his beard grow. — Он позволил бороде отрасти.
 - Why did you let it grow so long? — Почему ты позволил этому так сильно отрасти?
+<!--SR:!2026-09-23,3,250-->
 
 rash
 ?
@@ -1472,6 +1496,7 @@ rash
 - The child developed a rash. — У ребёнка появилась сыпь.
 - This cream may cause a rash. — Этот крем может вызвать сыпь.
 - It was a rash decision. — Это было опрометчивое решение.
+<!--SR:!2026-09-23,2,210-->
 
 supposed to
 ?
@@ -1479,6 +1504,7 @@ supposed to
 - You are supposed to be here at nine. — Ты должен быть здесь в девять.
 - This button is supposed to work. — Предполагается, что эта кнопка должна работать.
 - What am I supposed to do? — Что мне полагается делать?
+<!--SR:!2026-09-24,4,270-->
 
 rear-end
 ?
@@ -1486,6 +1512,7 @@ rear-end
 - The car has damage to its rear end. — У машины повреждена задняя часть.
 - A truck rear-ended my car. — Грузовик врезался в мою машину сзади.
 - Rear-end collisions are common in traffic. — Столкновения с ударом сзади часто случаются в пробках.
+<!--SR:!2026-09-23,4,270-->
 
 He tried a brief chuckle
 ?
@@ -1493,6 +1520,7 @@ He tried a brief chuckle
 - He tried a brief chuckle. — Он попытался коротко усмехнуться.
 - She gave a quiet chuckle. — Она тихо усмехнулась.
 - His chuckle sounded forced. — Его смешок звучал натянуто.
+<!--SR:!2026-09-24,3,250-->
 
 Vagrancy
 ?
@@ -1500,6 +1528,7 @@ Vagrancy
 - He was arrested for vagrancy. — Его арестовали за бродяжничество.
 - The old law punished vagrancy. — Старый закон предусматривал наказание за бродяжничество.
 - Vagrancy was common during the crisis. — Во время кризиса бродяжничество было распространено.
+<!--SR:!2026-09-23,4,270-->
 
 I'll charge you with contempt
 ?
@@ -1507,6 +1536,7 @@ I'll charge you with contempt
 - I'll charge you with contempt. — Я обвиню вас в неуважении к суду.
 - The judge held him in contempt. — Судья признал его виновным в неуважении к суду.
 - She was charged with contempt of court. — Ей предъявили обвинение в неуважении к суду.
+<!--SR:!2026-09-25,4,270-->
 
 favor
 ?
@@ -1514,6 +1544,7 @@ favor
 - Could you do me a favor? — Можешь оказать мне услугу?
 - The decision was in our favor. — Решение было в нашу пользу.
 - Public opinion favors the proposal. — Общественное мнение поддерживает это предложение.
+<!--SR:!2026-09-24,3,210-->
 
 deceptively
 ?
@@ -1521,6 +1552,7 @@ deceptively
 - The task looks deceptively simple. — Задача выглядит обманчиво простой.
 - The water is deceptively deep. — Вода кажется мелкой, хотя на самом деле глубокая.
 - He spoke in a deceptively calm voice. — Он говорил обманчиво спокойным голосом.
+<!--SR:!2026-09-22,2,230-->
 
 eligible
 ?
@@ -1528,6 +1560,7 @@ eligible
 - You may be eligible for a discount. — Возможно, у вас есть право на скидку.
 - Only members are eligible to vote. — Только участники имеют право голосовать.
 - She is eligible to apply. — Она соответствует требованиям для подачи заявки.
+<!--SR:!2026-09-23,3,230-->
 
 nevertheless
 ?
@@ -1535,6 +1568,7 @@ nevertheless
 - It was raining; nevertheless, we went out. — Шёл дождь; тем не менее мы вышли на улицу.
 - The task was hard, but she finished it nevertheless. — Задача была трудной, но она всё же её закончила.
 - The room is small but nevertheless comfortable. — Комната маленькая, но всё же уютная.
+<!--SR:!2026-09-22,3,250-->
 
 Gradually
 ?
@@ -1542,6 +1576,7 @@ Gradually
 - The sky gradually grew darker. — Небо постепенно темнело.
 - She gradually gained confidence. — Она постепенно становилась увереннее.
 - Add the flour gradually. — Добавляйте муку понемногу.
+<!--SR:!2026-09-25,4,270-->
 
 vessel
 ?
@@ -1549,6 +1584,7 @@ vessel
 - The vessel entered the port. — Судно вошло в порт.
 - Pour the liquid into a clean vessel. — Перелейте жидкость в чистый сосуд.
 - Blood flows through blood vessels. — Кровь течёт по кровеносным сосудам.
+<!--SR:!2026-09-24,3,250-->
 
 scaffold
 ?
@@ -1556,3 +1592,91 @@ scaffold
 - Workers climbed onto the scaffold. — Рабочие поднялись на строительные леса.
 - They built a scaffold beside the wall. — Они установили подмостки возле стены.
 - The painter stood on the scaffold. — Маляр стоял на подмостках.
+<!--SR:!2026-09-22,3,250-->
+
+ingest
+?
+проглатывать; принимать внутрь; загружать данные в систему
+- The child ingested a small object. — Ребёнок проглотил небольшой предмет.
+- Do not ingest this liquid. — Не принимайте эту жидкость внутрь.
+- The system ingests data from several sources. — Система загружает данные из нескольких источников.
+<!--SR:!2026-09-24,3,210-->
+
+backbone
+?
+позвоночник; основа, опора; твёрдость характера
+- The backbone protects the spinal cord. — Позвоночник защищает спинной мозг.
+- Small businesses are the backbone of the town. — Малый бизнес — основа жизни города.
+- She showed backbone by refusing to give in. — Она проявила твёрдость характера, отказавшись уступать.
+<!--SR:!2026-09-23,4,270-->
+
+complementary
+?
+взаимодополняющий; дополняющий что-либо
+- We have complementary skills. — Наши навыки дополняют друг друга.
+- These tools serve complementary purposes. — Эти инструменты выполняют взаимодополняющие задачи.
+- The two approaches are complementary. — Эти два подхода дополняют друг друга.
+<!--SR:!2026-09-23,3,250-->
+
+interoperability
+?
+способность разных систем обмениваться данными и работать совместно
+- The standard improves interoperability. — Стандарт улучшает совместимость систем.
+- We tested interoperability between the two apps. — Мы проверили совместную работу двух приложений.
+- Interoperability makes data sharing easier. — Совместимость систем упрощает обмен данными.
+<!--SR:!2026-09-23,4,270-->
+
+curb
+?
+сдерживать, ограничивать; ограничение; бордюр (амер.)
+- The city wants to curb traffic. — Город хочет ограничить автомобильное движение.
+- We need curbs on excessive spending. — Нам нужны ограничения чрезмерных расходов.
+- She parked next to the curb. — Она припарковалась у бордюра.
+<!--SR:!2026-09-23,3,230-->
+
+praised
+?
+похвалил; высоко оценил; получивший похвалу
+- The teacher praised her progress. — Учитель похвалил её успехи.
+- Critics praised the film. — Критики высоко оценили фильм.
+- He was praised for his honesty. — Его похвалили за честность.
+<!--SR:!2026-09-22,1,130-->
+
+vivid
+?
+яркий; живой, выразительный; отчётливый
+- She wore a vivid blue scarf. — На ней был ярко-синий шарф.
+- He gave a vivid description of the trip. — Он живо описал поездку.
+- I have vivid memories of that day. — У меня сохранились яркие воспоминания о том дне.
+<!--SR:!2026-09-22,2,190-->
+
+bonfire
+?
+большой костёр, часто праздничный или для сжигания веток и мусора
+- We gathered around the bonfire. — Мы собрались вокруг костра.
+- They lit a bonfire on the beach. — Они разожгли большой костёр на пляже.
+- The bonfire burned all evening. — Костёр горел весь вечер.
+<!--SR:!2026-09-24,4,270-->
+
+By coercion
+?
+путём принуждения; под давлением или угрозами
+- The confession was obtained by coercion. — Признание получили путём принуждения.
+- They secured his agreement by coercion. — Они добились его согласия под давлением.
+- She acted freely, without coercion. — Она действовала добровольно, без принуждения.
+<!--SR:!2026-09-25,4,270-->
+
+volition
+?
+воля; собственное желание; of one's own volition — по собственной воле
+- She left of her own volition. — Она ушла по собственной воле.
+- He joined us of his own volition. — Он присоединился к нам по собственному желанию.
+- They acted of their own volition. — Они действовали по собственной воле.
+<!--SR:!2026-09-24,3,230-->
+
+The Czech government approved a windfall tax on refineries as energy pressures increase. The tax will equal 50% of the increase in gross margins versus 2025.
+?
+Правительство Чехии одобрило налог на сверхприбыль нефтеперерабатывающих заводов на фоне усиления напряжённости в энергетике. Налог составит 50% прироста валовой маржи по сравнению с 2025 годом.
+- The government introduced a windfall tax. — Правительство ввело налог на сверхприбыль.
+- Refineries reported higher gross margins. — Нефтеперерабатывающие заводы сообщили о росте валовой маржи.
+- The tax applies to the increase versus last year. — Налог взимается с прироста по сравнению с прошлым годом.
