@@ -352,7 +352,7 @@ tucked away = спрятанный; tucked in = аккуратно заправ�
 - The cafe is tucked away in a side street. — Кафе спрятано в переулке.
 - She tucked the letter into her bag. — Она сунула письмо в сумку.
 - The child was tucked in bed. — Ребёнка уложили и укрыли в постели.
-<!--SR:!2026-10-02,29,250-->
+<!--SR:!2027-01-13,102,270-->
 
 yield
 ?
@@ -720,7 +720,7 @@ odds
 - The odds are against us. — Шансы не в нашу пользу.
 - The team has good odds of winning. — У команды хорошие шансы на победу.
 - What are the odds of rain? — Какова вероятность дождя?
-<!--SR:!2026-10-02,41,290-->
+<!--SR:!2027-03-17,165,310-->
 
 Financial markets see overwhelming odds of a U.S. interest-rate increase by September as inflation pressures persist
 ?
@@ -976,7 +976,7 @@ rigors
 - She knew the rigors of military life. — Она знала тяготы военной жизни.
 - The job has its rigors. — У этой работы есть свои трудности.
 - Training prepares you for the rigors ahead. — Тренировка готовит к предстоящим испытаниям.
-<!--SR:!2026-10-02,3,170-->
+<!--SR:!2026-10-10,7,190-->
 
 until after
 ?
@@ -1264,7 +1264,7 @@ stoop
 - He tends to stoop when he walks. — Он склонен сутулиться при ходьбе.
 - She stooped to pick up the key. — Она наклонилась, чтобы поднять ключ.
 - We sat on the front stoop. — Мы сидели на крыльце перед входом.
-<!--SR:!2026-10-02,3,250-->
+<!--SR:!2026-10-14,11,270-->
 
 Nomadic
 ?
@@ -1336,7 +1336,7 @@ overlapping
 - The meetings are overlapping. — Встречи частично накладываются друг на друга.
 - We have overlapping interests. — У нас пересекающиеся интересы.
 - The two circles are overlapping. — Два круга перекрываются.
-<!--SR:!2026-10-02,10,230-->
+<!--SR:!2026-11-04,33,250-->
 
 ridiculous
 ?
@@ -1400,7 +1400,7 @@ resemblance
 - She bears a resemblance to her mother. — Она похожа на свою мать.
 - The resemblance is striking. — Сходство поразительное.
 - I see no resemblance between them. — Я не вижу между ними сходства.
-<!--SR:!2026-10-02,3,250-->
+<!--SR:!2026-10-13,10,270-->
 
 hummed
 ?
@@ -1616,7 +1616,7 @@ complementary
 - We have complementary skills. — Наши навыки дополняют друг друга.
 - These tools serve complementary purposes. — Эти инструменты выполняют взаимодополняющие задачи.
 - The two approaches are complementary. — Эти два подхода дополняют друг друга.
-<!--SR:!2026-10-02,3,230-->
+<!--SR:!2026-10-05,2,210-->
 
 interoperability
 ?
@@ -1632,7 +1632,7 @@ curb
 - The city wants to curb traffic. — Город хочет ограничить автомобильное движение.
 - We need curbs on excessive spending. — Нам нужны ограничения чрезмерных расходов.
 - She parked next to the curb. — Она припарковалась у бордюра.
-<!--SR:!2026-10-02,1,130-->
+<!--SR:!2026-10-04,2,150-->
 
 praised
 ?
@@ -1640,7 +1640,7 @@ praised
 - The teacher praised her progress. — Учитель похвалил её успехи.
 - Critics praised the film. — Критики высоко оценили фильм.
 - He was praised for his honesty. — Его похвалили за честность.
-<!--SR:!2026-10-02,1,130-->
+<!--SR:!2026-10-05,2,150-->
 
 vivid
 ?
@@ -1686,7 +1686,7 @@ reconciled
 - They reconciled after the argument. — Они помирились после ссоры.
 - She reconciled with her brother. — Она помирилась с братом.
 - We reconciled the figures in both reports. — Мы сверили цифры в обоих отчётах.
-<!--SR:!2026-10-02,1,190-->
+<!--SR:!2026-10-04,1,170-->
 
 rogue
 ?
@@ -1702,7 +1702,7 @@ pursue
 - The police pursued the suspect. — Полиция преследовала подозреваемого.
 - She wants to pursue a career in medicine. — Она хочет построить карьеру в медицине.
 - We decided to pursue the idea. — Мы решили развивать эту идею.
-<!--SR:!2026-10-02,1,170-->
+<!--SR:!2026-10-05,2,190-->
 
 heaved a sigh of relief
 ?
@@ -1718,7 +1718,7 @@ The Reserve Bank of India’s foreign-exchange operations soaked up about $20 bi
 - The central bank soaked up excess liquidity. — Центробанк изъял избыточную ликвидность.
 - The swap drained cash from the banking system. — Своп сократил объём свободных средств в банковской системе.
 - Banks had less cash available afterward. — После этого у банков осталось меньше свободных средств.
-<!--SR:!2026-10-02,1,230-->
+<!--SR:!2026-10-06,3,250-->
 
 squint
 ?
@@ -1726,6 +1726,7 @@ squint
 - He squinted in the bright sun. — Он прищурился на ярком солнце.
 - She squinted at the tiny print. — Она прищурилась, разглядывая мелкий шрифт.
 - I had to squint to see the sign. — Мне пришлось щуриться, чтобы прочитать вывеску.
+<!--SR:!2026-10-04,1,230-->
 
 scar
 ?
@@ -1740,6 +1741,7 @@ lash marks
 - Lash marks covered his back. — Его спина была покрыта следами ударов плетью.
 - The doctor noticed fresh lash marks. — Врач заметил свежие следы ударов.
 - The lash marks were still visible. — Следы ударов всё ещё были видны.
+<!--SR:!2026-10-07,4,270-->
 
 hesitate
 ?
@@ -1789,6 +1791,7 @@ blanket
 - She wrapped herself in a blanket. — Она завернулась в одеяло.
 - We spread a blanket on the grass. — Мы расстелили плед на траве.
 - The rule is a blanket ban on smoking. — Правило полностью запрещает курение.
+<!--SR:!2026-10-07,4,270-->
 
 Well make up your mind
 ?
@@ -1831,3 +1834,171 @@ unwieldy
 - The box was too unwieldy to carry. — Коробка была слишком громоздкой, чтобы её нести.
 - The old system is unwieldy. — Старая система неудобна в работе.
 - He struggled with the unwieldy ladder. — Ему было трудно управиться с громоздкой лестницей.
+
+bamboo grate
+?
+бамбуковая решётка
+- Water drained through the bamboo grate. — Вода стекала через бамбуковую решётку.
+- He lifted the bamboo grate. — Он поднял бамбуковую решётку.
+- They covered the opening with a bamboo grate. — Они закрыли отверстие бамбуковой решёткой.
+
+hoist up
+?
+поднимать вверх, подтягивать (часто с помощью верёвки)
+- They hoisted up the flag. — Они подняли флаг.
+- We hoisted the box up with a rope. — Мы подняли ящик верёвкой.
+- He hoisted himself up onto the wall. — Он подтянулся и забрался на стену.
+
+tortured
+?
+подвергнутый пыткам; измученный
+- The prisoner was tortured. — Заключённого пытали.
+- She was tortured by guilt. — Её мучило чувство вины.
+- He had a tortured expression. — У него было измученное выражение лица.
+
+thatched huts
+?
+хижины с соломенными или тростниковыми крышами
+- They lived in thatched huts. — Они жили в хижинах с соломенными крышами.
+- Thatched huts stood near the river. — У реки стояли хижины с тростниковыми крышами.
+- The storm damaged the thatched huts. — Буря повредила хижины с соломенными крышами.
+
+wounds
+?
+раны; ранения
+- The nurse cleaned his wounds. — Медсестра обработала его раны.
+- His wounds healed slowly. — Его раны заживали медленно.
+- She had deep wounds on her arm. — У неё были глубокие раны на руке.
+
+thigh muscle
+?
+мышца бедра
+- I pulled a thigh muscle. — Я потянул мышцу бедра.
+- His thigh muscle felt tight. — Он чувствовал напряжение в мышце бедра.
+- This exercise strengthens your thigh muscles. — Это упражнение укрепляет мышцы бедра.
+
+to limp around
+?
+ковылять, передвигаться прихрамывая
+- He had to limp around all day. — Ему пришлось весь день ковылять.
+- She limped around the house. — Она ходила по дому прихрамывая.
+- I was limping around after the match. — После матча я передвигался прихрамывая.
+
+dumping slops
+?
+выливание помоев, слив жидких отходов
+- He was dumping slops into a ditch. — Он выливал помои в канаву.
+- They stopped dumping slops near the well. — Они перестали выливать помои возле колодца.
+- Dumping slops was part of his daily work. — Выливание помоев входило в его ежедневные обязанности.
+
+digging latrines
+?
+рытьё ям для уборных
+- The soldiers were digging latrines. — Солдаты рыли ямы для уборных.
+- We spent the morning digging latrines. — Мы провели утро, копая ямы для уборных.
+- Digging latrines was hard work. — Рыть ямы для уборных было тяжело.
+
+ambush
+?
+засада; нападение из засады
+- They walked into an ambush. — Они попали в засаду.
+- The soldiers set up an ambush. — Солдаты устроили засаду.
+- The convoy was ambushed at dawn. — На колонну напали из засады на рассвете.
+
+field of cattle
+?
+поле с пасущимися коровами или другим крупным рогатым скотом
+- We passed a field of cattle. — Мы прошли мимо поля с пасущимися коровами.
+- A field of cattle lay beyond the fence. — За забором было поле с пасущимся скотом.
+- She took a photo of the field of cattle. — Она сфотографировала поле с пасущимися коровами.
+
+lapse
+?
+оплошность; кратковременная потеря внимания или памяти
+- It was a lapse in judgment. — Это была ошибка в оценке ситуации.
+- A brief lapse in concentration caused the mistake. — Краткая потеря концентрации привела к ошибке.
+- He had a momentary lapse of memory. — Он на мгновение забыл, что хотел вспомнить.
+
+Bowels
+?
+кишечник; недра, глубины (переносно)
+- The illness affected his bowels. — Болезнь затронула его кишечник.
+- He felt a sharp pain in his bowels. — Он почувствовал резкую боль в кишечнике.
+- They worked in the bowels of the ship. — Они работали в недрах корабля.
+
+strew
+?
+разбрасывать, рассыпать; покрывать разбросанными предметами
+- They strew petals along the path. — Они рассыпают лепестки вдоль дорожки.
+- Don't strew your clothes across the floor. — Не разбрасывай одежду по полу.
+- The floor was strewn with papers. — Пол был усеян бумагами.
+
+screeching
+?
+визг; пронзительный крик или скрип; визжащий
+- We heard tires screeching. — Мы услышали визг шин.
+- The bird was screeching loudly. — Птица громко и пронзительно кричала.
+- The screeching brakes woke me up. — Визг тормозов разбудил меня.
+
+crawl in
+?
+вползти, заползти внутрь
+- The opening was wide enough to crawl in. — Отверстие было достаточно широким, чтобы вползти внутрь.
+- He lifted the tent flap and crawled in. — Он поднял полог палатки и заполз внутрь.
+- A spider crawled in through the window. — Через окно вполз паук.
+
+Hollowed
+?
+выдолбленный; с удалённой сердцевиной (часто hollowed out)
+- They hollowed out a log. — Они выдолбили бревно.
+- The boat was made from a hollowed-out trunk. — Лодку сделали из выдолбленного ствола.
+- She hollowed out the pumpkin. — Она вынула мякоть из тыквы.
+
+stumbled
+?
+споткнулся; оступился; запнулся
+- He stumbled over a rock. — Он споткнулся о камень.
+- She stumbled on the stairs. — Она оступилась на лестнице.
+- I stumbled over my words. — Я запнулся, подбирая слова.
+
+Hauling
+?
+перевозка, перетаскивание тяжестей
+- They were hauling logs to the truck. — Они тащили брёвна к грузовику.
+- Hauling these boxes is tiring. — Таскать эти коробки утомительно.
+- The company makes money hauling freight. — Компания зарабатывает на перевозке грузов.
+
+intentional
+?
+намеренный, умышленный
+- The delay was intentional. — Задержка была намеренной.
+- It was an intentional choice. — Это был осознанный выбор.
+- The damage was intentional. — Ущерб нанесли умышленно.
+
+delirium
+?
+бред; состояние спутанного сознания
+- The fever caused delirium. — Лихорадка вызвала бред.
+- He was in a state of delirium. — Он находился в состоянии спутанного сознания.
+- She spoke wildly in her delirium. — В бреду она говорила бессвязно.
+
+cramps
+?
+судороги, болезненные мышечные спазмы
+- I got leg cramps while swimming. — Во время плавания у меня свело ноги.
+- She had stomach cramps. — У неё были спазмы в животе.
+- The cramps woke him up. — Судороги разбудили его.
+
+severe
+?
+сильный, тяжёлый; суровый, строгий
+- She was in severe pain. — Она испытывала сильную боль.
+- The storm caused severe damage. — Буря нанесла серьёзный ущерб.
+- He received a severe punishment. — Он получил суровое наказание.
+
+Caveats
+?
+оговорки, ограничения; предостережения
+- There are a few caveats to this plan. — У этого плана есть несколько оговорок.
+- Read the caveats before using the data. — Прочитай предупреждения об ограничениях перед использованием данных.
+- She agreed, with two caveats. — Она согласилась с двумя оговорками.
