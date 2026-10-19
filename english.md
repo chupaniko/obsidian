@@ -616,7 +616,7 @@ England’s resilience faces ultimate test against Argentina in World Cup semi-f
 - The team faces its ultimate test. — Команда проходит главное испытание.
 - England showed resilience after the loss. — Англия проявила стойкость после поражения.
 - Argentina reached the semi-final. — Аргентина вышла в полуфинал.
-<!--SR:!2026-10-19,55,310-->
+<!--SR:!2027-06-12,236,330-->
 
 Grumble
 ?
@@ -704,7 +704,7 @@ rival
 - Their main rival launched first. — Их главный конкурент запустился раньше.
 - She beat her rival in the final. — Она победила соперницу в финале.
 - The two firms are rivals. — Эти две компании конкурируют друг с другом.
-<!--SR:!2026-10-18,54,310-->
+<!--SR:!2027-06-08,232,330-->
 
 sued
 ?
@@ -872,7 +872,7 @@ bidding
 - Bidding starts at noon. — Торги начинаются в полдень.
 - Several firms are bidding for the contract. — Несколько компаний участвуют в конкурсе на контракт.
 - The house went above the asking price in bidding. — На торгах за дом предложили больше запрошенной цены.
-<!--SR:!2026-10-18,29,250-->
+<!--SR:!2027-01-28,101,270-->
 
 public consciousness
 ?
@@ -904,7 +904,7 @@ stalled
 - The talks have stalled. — Переговоры застопорились.
 - The car stalled at the lights. — Машина заглохла на светофоре.
 - Progress stalled last week. — На прошлой неделе прогресс остановился.
-<!--SR:!2026-10-19,21,270-->
+<!--SR:!2027-01-06,79,290-->
 
 investigate
 ?
@@ -984,7 +984,7 @@ until after
 - Wait until after lunch. — Подожди до времени после обеда.
 - We cannot decide until after the meeting. — Мы не сможем решить до окончания встречи.
 - The road stays closed until after noon. — Дорога останется закрытой до полудня.
-<!--SR:!2026-10-18,38,290-->
+<!--SR:!2027-03-21,153,310-->
 
 startling
 ?
@@ -1136,7 +1136,7 @@ abruptly
 - The meeting ended abruptly. — Встреча закончилась внезапно.
 - She stopped abruptly. — Она резко остановилась.
 - He left abruptly after lunch. — Он внезапно ушёл после обеда.
-<!--SR:!2026-10-19,32,270-->
+<!--SR:!2027-02-17,121,290-->
 
 As it is, I've half a notion to lock you up for the inconvenience you've caused me
 ?
@@ -1640,7 +1640,7 @@ praised
 - The teacher praised her progress. — Учитель похвалил её успехи.
 - Critics praised the film. — Критики высоко оценили фильм.
 - He was praised for his honesty. — Его похвалили за честность.
-<!--SR:!2026-10-19,9,190-->
+<!--SR:!2026-11-13,25,210-->
 
 vivid
 ?
@@ -1680,7 +1680,7 @@ The Czech government approved a windfall tax on refineries as energy pressures i
 - The government introduced a windfall tax. — Правительство ввело налог на сверхприбыль.
 - Refineries reported higher gross margins. — Нефтеперерабатывающие заводы сообщили о росте валовой маржи.
 - The tax applies to the increase versus last year. — Налог взимается с прироста по сравнению с прошлым годом.
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-03,15,290-->
 
 reconciled
 ?
@@ -1736,7 +1736,7 @@ scar
 - He has a scar on his cheek. — У него шрам на щеке.
 - The cut left a small scar. — После пореза остался небольшой шрам.
 - The accident scarred him for life. — Авария оставила у него шрам на всю жизнь.
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-03,15,290-->
 
 lash marks
 ?
@@ -1792,7 +1792,7 @@ whatsoever
 - I have no doubt whatsoever. — У меня нет ни малейших сомнений.
 - There was no noise whatsoever. — Не было совершенно никакого шума.
 - He showed no interest whatsoever. — Он не проявил ни малейшего интереса.
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-02,14,290-->
 
 blanket
 ?
@@ -1816,7 +1816,7 @@ ticks or fleas
 - Check the dog for ticks or fleas. — Проверь собаку на клещей или блох.
 - These bites may be from ticks or fleas. — Эти укусы могут быть от клещей или блох.
 - The vet treated the cat for ticks and fleas. — Ветеринар обработал кошку от клещей и блох.
-<!--SR:!2026-10-18,3,250-->
+<!--SR:!2026-10-30,11,270-->
 
 sheds
 ?
@@ -1840,7 +1840,7 @@ breach
 - This is a breach of the agreement. — Это нарушение соглашения.
 - The company reported a data breach. — Компания сообщила об утечке данных.
 - Water poured through a breach in the wall. — Вода хлынула через брешь в стене.
-<!--SR:!2026-10-19,2,230-->
+<!--SR:!2026-10-26,7,250-->
 
 unwieldy
 ?
@@ -1856,7 +1856,7 @@ bamboo grate
 - Water drained through the bamboo grate. — Вода стекала через бамбуковую решётку.
 - He lifted the bamboo grate. — Он поднял бамбуковую решётку.
 - They covered the opening with a bamboo grate. — Они закрыли отверстие бамбуковой решёткой.
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-02,14,290-->
 
 hoist up
 ?
@@ -1928,7 +1928,7 @@ ambush
 - They walked into an ambush. — Они попали в засаду.
 - The soldiers set up an ambush. — Солдаты устроили засаду.
 - The convoy was ambushed at dawn. — На колонну напали из засады на рассвете.
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-04,16,290-->
 
 field of cattle
 ?
@@ -1952,7 +1952,7 @@ Bowels
 - The illness affected his bowels. — Болезнь затронула его кишечник.
 - He felt a sharp pain in his bowels. — Он почувствовал резкую боль в кишечнике.
 - They worked in the bowels of the ship. — Они работали в недрах корабля.
-<!--SR:!2026-10-18,2,190-->
+<!--SR:!2026-10-24,5,210-->
 
 strew
 ?
@@ -1968,7 +1968,7 @@ screeching
 - We heard tires screeching. — Мы услышали визг шин.
 - The bird was screeching loudly. — Птица громко и пронзительно кричала.
 - The screeching brakes woke me up. — Визг тормозов разбудил меня.
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-02,14,290-->
 
 crawl in
 ?
@@ -2024,7 +2024,7 @@ cramps
 - I got leg cramps while swimming. — Во время плавания у меня свело ноги.
 - She had stomach cramps. — У неё были спазмы в животе.
 - The cramps woke him up. — Судороги разбудили его.
-<!--SR:!2026-10-19,3,230-->
+<!--SR:!2026-10-30,11,250-->
 
 severe
 ?
@@ -2032,7 +2032,7 @@ severe
 - She was in severe pain. — Она испытывала сильную боль.
 - The storm caused severe damage. — Буря нанесла серьёзный ущерб.
 - He received a severe punishment. — Он получил суровое наказание.
-<!--SR:!2026-10-19,3,230-->
+<!--SR:!2026-10-29,10,250-->
 
 Caveats
 ?
@@ -2040,7 +2040,7 @@ Caveats
 - There are a few caveats to this plan. — У этого плана есть несколько оговорок.
 - Read the caveats before using the data. — Прочитай предупреждения об ограничениях перед использованием данных.
 - She agreed, with two caveats. — Она согласилась с двумя оговорками.
-<!--SR:!2026-10-18,3,230-->
+<!--SR:!2026-10-30,11,250-->
 
 lousy
 ?
@@ -2072,7 +2072,7 @@ tenure
 - Sales grew during her tenure as CEO. — За время её работы генеральным директором продажи выросли.
 - His tenure ended last year. — Его срок пребывания в должности закончился в прошлом году.
 - She was granted tenure at the university. — Она получила постоянную должность в университете.
-<!--SR:!2026-10-19,2,230-->
+<!--SR:!2026-10-26,7,250-->
 
 dedication
 ?
@@ -2088,7 +2088,7 @@ fostering
 - The project is fostering cooperation. — Проект способствует сотрудничеству.
 - She focuses on fostering trust. — Она уделяет особое внимание укреплению доверия.
 - They are fostering two children. — Они воспитывают двоих приёмных детей.
-<!--SR:!2026-10-19,2,150-->
+<!--SR:!2026-10-23,4,170-->
 
 leveraging
 ?
@@ -2096,7 +2096,7 @@ leveraging
 - We're leveraging our experience. — Мы используем наш опыт для достижения цели.
 - The team is leveraging existing tools. — Команда эффективно использует уже имеющиеся инструменты.
 - She's leveraging her contacts to find work. — Она использует свои связи, чтобы найти работу.
-<!--SR:!2026-10-18,2,190-->
+<!--SR:!2026-10-24,5,210-->
 
 well-versed
 ?
@@ -2120,7 +2120,7 @@ controversy
 - The decision sparked controversy. — Решение вызвало бурные споры.
 - The film caused a lot of controversy. — Фильм вызвал много споров.
 - He resigned amid the controversy. — Он ушёл в отставку на фоне скандала.
-<!--SR:!2026-10-18,3,250-->
+<!--SR:!2026-10-31,12,270-->
 
 military facility
 ?
@@ -2128,7 +2128,7 @@ military facility
 - The road leads to a military facility. — Дорога ведёт к военному объекту.
 - The military facility is heavily guarded. — Военный объект тщательно охраняется.
 - They built a new military facility. — Они построили новый военный объект.
-<!--SR:!2026-10-18,3,250-->
+<!--SR:!2026-10-31,12,270-->
 
 construction site
 ?
@@ -2136,7 +2136,7 @@ construction site
 - Wear a helmet on the construction site. — На стройплощадке носи каску.
 - The construction site is closed today. — Сегодня строительная площадка закрыта.
 - He works at a construction site. — Он работает на стройке.
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-04,16,290-->
 
 take a bearing from a star
 ?
@@ -2144,7 +2144,7 @@ take a bearing from a star
 - We took a bearing from a star. — Мы определили направление по звезде.
 - Can you take a bearing from a star? — Ты умеешь определять направление по звезде?
 - The sailor took a bearing from a star. — Моряк определил направление по звезде.
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-03,15,290-->
 
 keep from being spotted
 ?
@@ -2152,14 +2152,15 @@ keep from being spotted
 - We hid to keep from being spotted. — Мы спрятались, чтобы нас не заметили.
 - He stayed low to keep from being spotted. — Он пригнулся, чтобы остаться незамеченным.
 - They moved at night to keep from being spotted. — Они передвигались ночью, чтобы избежать обнаружения.
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-04,16,290-->
+
 staggering
 ?
 ошеломляющий, поразительный (часто о размере или количестве); шатающийся
 - The repairs cost a staggering amount. — Ремонт обошёлся в ошеломляющую сумму.
 - The team made staggering progress. — Команда добилась поразительных успехов.
 - He was staggering from exhaustion. — Он шатался от изнеможения.
-<!--SR:!2026-10-18,1,190-->
+<!--SR:!2026-10-20,1,170-->
 
 contemporary
 ?
@@ -2175,7 +2176,7 @@ frantically
 - She searched frantically for her keys. — Она лихорадочно искала ключи.
 - He waved frantically for help. — Он отчаянно махал рукой, прося о помощи.
 - They worked frantically to finish on time. — Они работали изо всех сил, чтобы закончить вовремя.
-<!--SR:!2026-10-18,1,210-->
+<!--SR:!2026-10-20,1,190-->
 
 muffled
 ?
@@ -2183,7 +2184,7 @@ muffled
 - We heard a muffled cry. — Мы услышали приглушённый крик.
 - His voice was muffled by the mask. — Маска приглушала его голос.
 - Muffled footsteps came from upstairs. — Сверху доносились глухие шаги.
-<!--SR:!2026-10-18,1,210-->
+<!--SR:!2026-10-20,1,190-->
 
 eerie
 ?
@@ -2191,7 +2192,7 @@ eerie
 - An eerie silence filled the room. — В комнате стояла жуткая тишина.
 - We heard an eerie sound outside. — Снаружи мы услышали жуткий звук.
 - The empty house felt eerie. — В пустом доме было не по себе.
-<!--SR:!2026-10-18,1,210-->
+<!--SR:!2026-10-22,3,230-->
 
 mansion
 ?
@@ -2207,7 +2208,7 @@ damp
 - My shoes are still damp. — Мои туфли всё ещё влажные.
 - The room smelled of damp. — В комнате пахло сыростью.
 - Wipe it with a damp cloth. — Протри это влажной тряпкой.
-<!--SR:!2026-10-18,1,230-->
+<!--SR:!2026-10-20,1,210-->
 
 wreck
 ?
@@ -2215,7 +2216,7 @@ wreck
 - Divers explored the wreck. — Водолазы обследовали затонувшее судно.
 - The storm wrecked our boat. — Буря разбила нашу лодку.
 - I was a nervous wreck before the exam. — Перед экзаменом я был на пределе нервного истощения.
-<!--SR:!2026-10-18,1,230-->
+<!--SR:!2026-10-22,3,230-->
 
 apart
 ?
@@ -2223,7 +2224,7 @@ apart
 - They live far apart. — Они живут далеко друг от друга.
 - He took the clock apart. — Он разобрал часы на части.
 - Keep the dogs apart. — Держи собак отдельно друг от друга.
-<!--SR:!2026-10-18,1,230-->
+<!--SR:!2026-10-20,1,210-->
 
 burst outside
 ?
@@ -2231,7 +2232,7 @@ burst outside
 - She burst outside when she heard the scream. — Услышав крик, она выскочила наружу.
 - He burst outside without his coat. — Он выбежал на улицу без пальто.
 - The children burst outside to play. — Дети выскочили на улицу играть.
-<!--SR:!2026-10-18,1,230-->
+<!--SR:!2026-10-22,3,250-->
 
 leapt down
 ?
@@ -2239,7 +2240,7 @@ leapt down
 - He leapt down from the wall. — Он спрыгнул со стены.
 - The cat leapt down from the shelf. — Кот спрыгнул с полки.
 - She leapt down onto the sand. — Она спрыгнула на песок.
-<!--SR:!2026-10-18,1,230-->
+<!--SR:!2026-10-20,1,210-->
 
 lunged him off the cycle
 ?
@@ -2247,7 +2248,7 @@ lunged him off the cycle
 - He lunged at the rider. — Он резко бросился на ездока.
 - The attacker knocked him off his bike. — Нападавший сбил его с велосипеда.
 - She lunged forward and grabbed the handlebars. — Она рванулась вперёд и схватилась за руль.
-<!--SR:!2026-10-18,1,230-->
+<!--SR:!2026-10-22,3,250-->
 
 swung onto the cycle
 ?
@@ -2255,4 +2256,12 @@ swung onto the cycle
 - He swung onto the cycle and rode away. — Он вскочил на велосипед и уехал.
 - She swung onto her bike. — Она одним движением села на велосипед.
 - He swung onto the motorcycle behind her. — Он перекинул ногу через седло и сел на мотоцикл позади неё.
-<!--SR:!2026-10-18,1,230-->
+<!--SR:!2026-10-22,3,250-->
+
+endeavour
+?
+попытка, усилие; начинание; стараться, стремиться (брит.; амер. endeavor)
+- Learning a language takes time and endeavour. — Изучение языка требует времени и усилий.
+- I wish you success in your new endeavour. — Желаю тебе успеха в новом начинании.
+- We endeavour to reply within a day. — Мы стараемся отвечать в течение суток.
+<!--SR:!2026-10-20,1,230-->
