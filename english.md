@@ -1144,7 +1144,7 @@ As it is, I've half a notion to lock you up for the inconvenience you've caused 
 - I've half a notion to leave now. — Я подумываю уйти прямо сейчас.
 - The delay caused me real inconvenience. — Задержка доставила мне серьёзные неудобства.
 - He threatened to lock them up. — Он пригрозил запереть их.
-<!--SR:!2026-11-20,64,310-->
+<!--SR:!2027-08-22,275,330-->
 
 exhaust fumes
 ?
@@ -1400,7 +1400,7 @@ resemblance
 - She bears a resemblance to her mother. — Она похожа на свою мать.
 - The resemblance is striking. — Сходство поразительное.
 - I see no resemblance between them. — Я не вижу между ними сходства.
-<!--SR:!2026-11-20,38,290-->
+<!--SR:!2027-03-10,110,290-->
 
 hummed
 ?
@@ -1424,7 +1424,7 @@ shiver
 - I began to shiver in the cold. — Я начал дрожать от холода.
 - The sound made her shiver. — От этого звука она вздрогнула.
 - A shiver ran down my spine. — По моей спине пробежала дрожь.
-<!--SR:!2026-11-20,42,290-->
+<!--SR:!2027-05-08,169,310-->
 
 bundled
 ?
@@ -1592,7 +1592,7 @@ scaffold
 - Workers climbed onto the scaffold. — Рабочие поднялись на строительные леса.
 - They built a scaffold beside the wall. — Они установили подмостки возле стены.
 - The painter stood on the scaffold. — Маляр стоял на подмостках.
-<!--SR:!2026-11-20,45,290-->
+<!--SR:!2027-05-21,182,310-->
 
 ingest
 ?
@@ -2288,7 +2288,7 @@ astonished
 - I was astonished by the news. — Я был поражён этой новостью.
 - She looked astonished. — Она выглядела изумлённой.
 - We were astonished to see him there. — Мы очень удивились, увидев его там.
-<!--SR:!2026-11-20,3,230-->
+<!--SR:!2026-12-01,11,250-->
 
 blurted
 ?
@@ -2487,7 +2487,7 @@ bail
 - She was released on bail. — Её отпустили под залог.
 - His family posted bail. — Его семья внесла залог.
 - The judge denied bail. — Судья отказал в освобождении под залог.
-<!--SR:!2026-11-20,1,190-->
+<!--SR:!2026-11-21,1,150-->
 
 acquire
 ?
@@ -2597,7 +2597,7 @@ militants
 - Armed militants blocked the road. — Вооружённые боевики перекрыли дорогу.
 - The militants withdrew from the town. — Боевики ушли из города.
 - Union militants called for a strike. — Радикально настроенные профсоюзные активисты призвали к забастовке.
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-04,14,290-->
 
 anticipate
 ?
@@ -2613,7 +2613,7 @@ snug
 - We stayed snug under the blankets. — Нам было тепло и уютно под одеялами.
 - These boots are a bit snug. — Эти ботинки немного тесноваты.
 - The lid should fit snugly. — Крышка должна плотно прилегать.
-<!--SR:!2026-11-20,3,210-->
+<!--SR:!2026-11-28,8,230-->
 
 tug
 ?
@@ -2668,7 +2668,7 @@ smugglers
 - Customs officers caught the smugglers. — Таможенники поймали контрабандистов.
 - The smugglers hid the goods in a truck. — Контрабандисты спрятали товары в грузовике.
 - The island was once a base for smugglers. — Когда-то остров служил базой контрабандистов.
-<!--SR:!2026-11-20,3,250-->
+<!--SR:!2026-12-01,11,270-->
 
 oversight
 ?
@@ -2676,7 +2676,7 @@ oversight
 - The project needs independent oversight. — Проекту нужен независимый надзор.
 - The committee provides oversight of spending. — Комитет контролирует расходы.
 - I left your name off the list by oversight. — Я по недосмотру не включил твоё имя в список.
-<!--SR:!2026-11-20,3,230-->
+<!--SR:!2026-11-30,10,250-->
 
 estuary
 ?
@@ -2714,7 +2714,7 @@ legitimate
 - They run a legitimate business. — Они ведут законный бизнес.
 - That's a legitimate concern. — Это вполне обоснованное опасение.
 - Do you have a legitimate reason to be here? — У тебя есть веская причина здесь находиться?
-<!--SR:!2026-11-20,3,250-->
+<!--SR:!2026-12-02,12,270-->
 
 dwell
 ?
@@ -2730,7 +2730,7 @@ coercion
 - They signed the agreement under coercion. — Они подписали соглашение под принуждением.
 - She said the confession was obtained through coercion. — Она сказала, что признание получили под давлением.
 - He agreed without any coercion. — Он согласился без всякого принуждения.
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-05,15,290-->
 
 compelling
 ?
@@ -2739,6 +2739,7 @@ compelling
 - There is compelling evidence that it works. — Есть убедительные доказательства того, что это работает.
 - The film tells a compelling story. — Фильм рассказывает захватывающую историю.
 <!--SR:!2026-11-21,3,250-->
+
 exempt
 ?
 освобождённый от обязанности, уплаты или действия правила (exempt from)
@@ -2752,6 +2753,7 @@ neglect
 - Don't neglect your health. — Не пренебрегай своим здоровьем.
 - The garden had been neglected for years. — За садом годами не ухаживали.
 - The building fell into disrepair through neglect. — Здание обветшало из-за отсутствия ухода.
+<!--SR:!2026-11-21,1,230-->
 
 flange
 ?
@@ -2773,6 +2775,7 @@ fur
 - The cat has soft fur. — У кошки мягкая шерсть.
 - His coat was lined with fur. — Его пальто было на меховой подкладке.
 - The dog's fur was wet. — Шерсть собаки была мокрой.
+<!--SR:!2026-11-21,1,230-->
 
 extinct
 ?
@@ -2794,3 +2797,31 @@ endurance
 - Running helps build endurance. — Бег помогает развивать выносливость.
 - The race tested her endurance. — Гонка стала испытанием её выносливости.
 - He showed great endurance during the climb. — Во время восхождения он проявил большую выносливость.
+
+Social bonds
+?
+социальные связи; отношения, которые связывают людей
+- Shared meals strengthen social bonds. — Совместные обеды укрепляют социальные связи.
+- Strong social bonds help us cope with stress. — Крепкие связи с людьми помогают справляться со стрессом.
+- Moving abroad can weaken social bonds. — Переезд за границу может ослабить социальные связи.
+
+devour
+?
+пожирать, жадно съедать; читать запоем
+- He devoured his lunch in minutes. — Он съел обед за считанные минуты.
+- She devoured the novel in one night. — Она прочитала роман запоем за одну ночь.
+- The flames devoured the wooden house. — Пламя поглотило деревянный дом.
+
+intimidating
+?
+пугающий, внушающий страх или неуверенность
+- The interview seemed intimidating at first. — Поначалу собеседование казалось пугающим.
+- He has an intimidating presence. — Рядом с ним люди чувствуют себя неуверенно.
+- Speaking to a large crowd can be intimidating. — Выступать перед большой аудиторией бывает страшно.
+
+harsh
+?
+суровый, жёсткий; резкий, неприятный
+- The winters here are harsh. — Зимы здесь суровые.
+- His words sounded harsh. — Его слова прозвучали резко.
+- Avoid harsh cleaning products. — Избегай агрессивных чистящих средств.
