@@ -120,7 +120,7 @@ slightly
 - The soup is slightly salty. — Суп слегка солёный.
 - She smiled slightly. — Она чуть заметно улыбнулась.
 - Prices rose slightly. — Цены немного выросли.
-<!--SR:!2026-11-23,105,310-->
+<!--SR:!2028-02-16,450,330-->
 
 wobbly
 ?
@@ -200,7 +200,7 @@ evicts
 - The landlord evicts tenants who do not pay. — Арендодатель выселяет жильцов, которые не платят.
 - The city evicts people from unsafe buildings. — Город выселяет людей из аварийных зданий.
 - A court order evicts the family. — Судебное решение выселяет семью.
-<!--SR:!2026-11-21,64,310-->
+<!--SR:!2027-08-23,275,330-->
 
 brevity
 ?
@@ -784,7 +784,7 @@ sentinel
 - A sentinel guarded the gate. — Часовой охранял ворота.
 - The sentinel stood watch all night. — Часовой нёс службу всю ночь.
 - The system uses a sentinel value. — Система использует сторожевое значение.
-<!--SR:!2026-11-22,64,310-->
+<!--SR:!2027-08-24,275,330-->
 
 harness
 ?
@@ -912,7 +912,7 @@ investigate
 - Police are investigating the case. — Полиция расследует это дело.
 - We need to investigate the error. — Нам нужно изучить ошибку.
 - The report investigates the cause. — В отчёте исследуется причина.
-<!--SR:!2026-11-23,48,250-->
+<!--SR:!2027-05-10,168,270-->
 
 sultry August evening
 ?
@@ -1000,7 +1000,7 @@ the latter movies omitted
 - The latter movies omitted this character. — В последующих фильмах этого персонажа исключили.
 - The summary omitted the latter movies. — В обзоре пропустили последние фильмы.
 - Later editions omitted that scene. — В поздних изданиях эту сцену убрали.
-<!--SR:!2026-11-22,46,250-->
+<!--SR:!2027-05-03,162,270-->
 
 haunted
 ?
@@ -1304,7 +1304,7 @@ valiant
 - They made a valiant effort. — Они предприняли доблестную попытку.
 - The firefighter was valiant. — Пожарный проявил храбрость.
 - She gave a valiant defence. — Она доблестно защищалась.
-<!--SR:!2026-11-21,39,230-->
+<!--SR:!2027-03-26,125,250-->
 
 shrugged
 ?
@@ -1392,7 +1392,7 @@ scattered
 - Papers were scattered across the floor. — Бумаги были разбросаны по полу.
 - Scattered clouds appeared by noon. — К полудню появились отдельные облака.
 - The houses are scattered along the coast. — Дома разбросаны вдоль побережья.
-<!--SR:!2026-11-21,46,290-->
+<!--SR:!2027-05-25,185,310-->
 
 resemblance
 ?
@@ -1480,7 +1480,7 @@ possessed
 - He looked as if he were possessed. — Он выглядел словно одержимый.
 - She possessed great patience. — Она обладала большим терпением.
 - Possessed by fear, he ran away. — Охваченный страхом, он убежал.
-<!--SR:!2026-11-21,10,250-->
+<!--SR:!2026-12-26,35,270-->
 
 Then what possessed you to let it grow
 ?
@@ -1496,7 +1496,7 @@ rash
 - The child developed a rash. — У ребёнка появилась сыпь.
 - This cream may cause a rash. — Этот крем может вызвать сыпь.
 - It was a rash decision. — Это было опрометчивое решение.
-<!--SR:!2026-11-22,40,250-->
+<!--SR:!2027-04-11,140,270-->
 
 supposed to
 ?
@@ -1520,7 +1520,7 @@ He tried a brief chuckle
 - He tried a brief chuckle. — Он попытался коротко усмехнуться.
 - She gave a quiet chuckle. — Она тихо усмехнулась.
 - His chuckle sounded forced. — Его смешок звучал натянуто.
-<!--SR:!2026-11-21,42,290-->
+<!--SR:!2027-05-09,169,310-->
 
 Vagrancy
 ?
@@ -1720,7 +1720,7 @@ The Reserve Bank of India’s foreign-exchange operations soaked up about $20 bi
 - The central bank soaked up excess liquidity. — Центробанк изъял избыточную ликвидность.
 - The swap drained cash from the banking system. — Своп сократил объём свободных средств в банковской системе.
 - Banks had less cash available afterward. — После этого у банков осталось меньше свободных средств.
-<!--SR:!2026-11-23,38,290-->
+<!--SR:!2027-04-25,153,310-->
 
 squint
 ?
@@ -1776,7 +1776,7 @@ Aside
 - She stepped aside to let him pass. — Она отошла в сторону, чтобы пропустить его.
 - Put the book aside for now. — Пока отложи книгу.
 - Jokes aside, we need a plan. — Если отбросить шутки, нам нужен план.
-<!--SR:!2026-11-23,26,290-->
+<!--SR:!2027-03-08,105,310-->
 
 denim coverall
 ?
@@ -1840,7 +1840,7 @@ breach
 - This is a breach of the agreement. — Это нарушение соглашения.
 - The company reported a data breach. — Компания сообщила об утечке данных.
 - Water poured through a breach in the wall. — Вода хлынула через брешь в стене.
-<!--SR:!2026-11-22,25,270-->
+<!--SR:!2027-02-26,96,290-->
 
 unwieldy
 ?
@@ -1976,7 +1976,7 @@ crawl in
 - The opening was wide enough to crawl in. — Отверстие было достаточно широким, чтобы вползти внутрь.
 - He lifted the tent flap and crawled in. — Он поднял полог палатки и заполз внутрь.
 - A spider crawled in through the window. — Через окно вполз паук.
-<!--SR:!2026-11-23,11,250-->
+<!--SR:!2027-01-01,39,270-->
 
 Hollowed
 ?
@@ -2072,7 +2072,7 @@ tenure
 - Sales grew during her tenure as CEO. — За время её работы генеральным директором продажи выросли.
 - His tenure ended last year. — Его срок пребывания в должности закончился в прошлом году.
 - She was granted tenure at the university. — Она получила постоянную должность в университете.
-<!--SR:!2026-11-22,25,270-->
+<!--SR:!2027-02-21,91,290-->
 
 dedication
 ?
@@ -2296,7 +2296,7 @@ blurted
 - He blurted out the answer. — Он выпалил ответ.
 - She blurted out my secret. — Она сболтнула мой секрет.
 - I blurted out his name. — Я неожиданно выпалил его имя.
-<!--SR:!2026-11-21,3,230-->
+<!--SR:!2026-12-01,10,250-->
 
 deaf
 ?
@@ -2392,6 +2392,7 @@ reliant
 - We're reliant on public transport. — Мы зависим от общественного транспорта.
 - The village is reliant on tourism. — Деревня зависит от туризма.
 - He's too reliant on his parents. — Он слишком сильно полагается на родителей.
+<!--SR:!2026-11-25,3,230-->
 
 allegedly
 ?
@@ -2439,7 +2440,7 @@ Obstacle
 - Money is the biggest obstacle. — Деньги — главное препятствие.
 - We overcame every obstacle. — Мы преодолели все препятствия.
 - Fear can be an obstacle to change. — Страх может мешать переменам.
-<!--SR:!2026-11-23,7,250-->
+<!--SR:!2026-12-18,25,270-->
 
 breed
 ?
@@ -2447,7 +2448,7 @@ breed
 - They breed sheep on this farm. — На этой ферме разводят овец.
 - These birds breed in spring. — Эти птицы размножаются весной.
 - What breed is your dog? — Какой породы твоя собака?
-<!--SR:!2026-11-22,4,170-->
+<!--SR:!2026-12-03,11,190-->
 
 allege
 ?
@@ -2479,7 +2480,7 @@ comply
 - All staff must comply with the rules. — Все сотрудники обязаны соблюдать правила.
 - He complied with my request. — Он выполнил мою просьбу.
 - The company failed to comply with the order. — Компания не выполнила предписание.
-<!--SR:!2026-11-22,5,210-->
+<!--SR:!2026-12-08,16,230-->
 
 bail
 ?
@@ -2487,7 +2488,7 @@ bail
 - She was released on bail. — Её отпустили под залог.
 - His family posted bail. — Его семья внесла залог.
 - The judge denied bail. — Судья отказал в освобождении под залог.
-<!--SR:!2026-11-21,1,150-->
+<!--SR:!2026-11-28,5,190-->
 
 acquire
 ?
@@ -2511,7 +2512,7 @@ Get rid of
 - I need to get rid of these boxes. — Мне нужно избавиться от этих коробок.
 - How do I get rid of this stain? — Как вывести это пятно?
 - We got rid of the old sofa. — Мы избавились от старого дивана.
-<!--SR:!2026-11-21,3,230-->
+<!--SR:!2026-11-24,3,230-->
 
 sorrow
 ?
@@ -2527,6 +2528,7 @@ temptation
 - I couldn't resist the temptation to laugh. — Я не смог удержаться от смеха.
 - She gave in to temptation and bought the shoes. — Она поддалась соблазну и купила туфли.
 - There's a temptation to skip the boring parts. — Есть соблазн пропустить скучные места.
+<!--SR:!2026-11-25,4,270-->
 
 daunting
 ?
@@ -2534,7 +2536,7 @@ daunting
 - It's a daunting task. — Задача кажется очень сложной.
 - The first day felt daunting. — Первый день меня пугал.
 - The prospect of moving abroad was daunting. — Мысль о переезде за границу пугала.
-<!--SR:!2026-11-22,3,210-->
+<!--SR:!2026-11-30,8,230-->
 
 candid
 ?
@@ -2550,7 +2552,7 @@ banter
 - I missed the office banter. — Мне не хватало дружеских подколов в офисе.
 - Their banter made me laugh. — Их шутливая перепалка меня рассмешила.
 - They bantered about whose team would win. — Они подкалывали друг друга, споря, чья команда победит.
-<!--SR:!2026-11-23,6,230-->
+<!--SR:!2026-12-13,20,250-->
 
 disavow
 ?
@@ -2558,7 +2560,7 @@ disavow
 - She disavowed her earlier remarks. — Она публично отказалась от своих прежних высказываний.
 - The group disavowed the attack. — Группа заявила о своей непричастности к нападению.
 - The party disavowed the candidate's views. — Партия заявила, что не разделяет взгляды кандидата.
-<!--SR:!2026-11-23,5,210-->
+<!--SR:!2026-12-09,16,230-->
 
 imply
 ?
@@ -2566,6 +2568,7 @@ imply
 - Are you implying that I lied? — Ты намекаешь, что я солгал?
 - I didn't mean to imply that it was easy. — Я не хотел сказать, что это легко.
 - Silence doesn't imply agreement. — Молчание не означает согласия.
+<!--SR:!2026-11-25,3,250-->
 
 allegiance
 ?
@@ -2581,7 +2584,7 @@ beyond
 - The village lies beyond the river. — Деревня находится за рекой.
 - That's beyond my budget. — Это выходит за рамки моего бюджета.
 - The phone was damaged beyond repair. — Телефон уже нельзя было починить.
-<!--SR:!2026-11-21,3,250-->
+<!--SR:!2026-12-02,11,270-->
 
 call of duty
 ?
@@ -2605,7 +2608,7 @@ anticipate
 - We anticipate some delays. — Мы ожидаем задержек.
 - I hadn't anticipated that question. — Я не предвидел такого вопроса.
 - Try to anticipate what your customers will need. — Попробуй заранее понять, что понадобится клиентам.
-<!--SR:!2026-11-21,3,230-->
+<!--SR:!2026-11-30,9,250-->
 
 snug
 ?
@@ -2645,7 +2648,7 @@ surplus
 - We donated our surplus food. — Мы отдали излишки продуктов.
 - The farm sells its surplus at the market. — Ферма продаёт излишки на рынке.
 - The city ended the year with a budget surplus. — Город закончил год с профицитом бюджета.
-<!--SR:!2026-11-21,3,250-->
+<!--SR:!2026-12-03,12,270-->
 
 tumble
 ?
@@ -2653,7 +2656,7 @@ tumble
 - The box tumbled down the stairs. — Коробка покатилась вниз по лестнице.
 - She took a tumble on the ice. — Она упала на льду.
 - Prices tumbled overnight. — Цены резко упали за ночь.
-<!--SR:!2026-11-22,3,170-->
+<!--SR:!2026-11-29,7,190-->
 
 tailored for
 ?
@@ -2661,6 +2664,7 @@ tailored for
 - The course is tailored for beginners. — Курс разработан специально для начинающих.
 - The layout was tailored for small screens. — Макет адаптировали под небольшие экраны.
 - These workouts are tailored for busy parents. — Эти тренировки рассчитаны на занятых родителей.
+<!--SR:!2026-11-25,3,250-->
 
 smugglers
 ?
@@ -2684,6 +2688,7 @@ estuary
 - The village sits near the estuary. — Деревня находится недалеко от устья реки.
 - Seals often swim into the estuary. — Тюлени часто заплывают в эстуарий.
 - The tide carries salt water into the estuary. — Прилив приносит морскую воду в устье реки.
+<!--SR:!2026-11-25,4,270-->
 
 condemned
 ?
@@ -2691,6 +2696,7 @@ condemned
 - The mayor condemned the attack. — Мэр осудил нападение.
 - He was condemned to death. — Его приговорили к смертной казни.
 - The building was condemned after the fire. — После пожара здание признали непригодным для использования.
+<!--SR:!2026-11-25,3,230-->
 
 allegations
 ?
@@ -2698,7 +2704,7 @@ allegations
 - She denied the allegations. — Она отвергла обвинения.
 - Police are investigating allegations of fraud. — Полиция проверяет заявления о мошенничестве.
 - The article made serious allegations. — В статье прозвучали серьёзные обвинения.
-<!--SR:!2026-11-21,3,210-->
+<!--SR:!2026-11-29,8,230-->
 
 rural
 ?
@@ -2706,7 +2712,7 @@ rural
 - She grew up in a rural area. — Она выросла в сельской местности.
 - They moved to a small rural town. — Они переехали в маленький городок в сельской местности.
 - Rural schools often serve several villages. — В сельских школах часто учатся дети из нескольких деревень.
-<!--SR:!2026-11-22,3,230-->
+<!--SR:!2026-11-24,2,210-->
 
 legitimate
 ?
@@ -2722,7 +2728,7 @@ dwell
 - Many spirits dwell in this forest. — В этом лесу обитает множество духов.
 - Try not to dwell on past mistakes. — Старайся не зацикливаться на прошлых ошибках.
 - She didn't dwell on the details. — Она не стала подробно останавливаться на деталях.
-<!--SR:!2026-11-21,3,230-->
+<!--SR:!2026-12-01,10,250-->
 
 coercion
 ?
@@ -2738,7 +2744,7 @@ compelling
 - She made a compelling case for change. — Она привела убедительные доводы в пользу перемен.
 - There is compelling evidence that it works. — Есть убедительные доказательства того, что это работает.
 - The film tells a compelling story. — Фильм рассказывает захватывающую историю.
-<!--SR:!2026-11-21,3,250-->
+<!--SR:!2026-12-02,11,270-->
 
 exempt
 ?
@@ -2746,6 +2752,7 @@ exempt
 - Children under five are exempt from the fee. — Дети до пяти лет освобождены от платы.
 - This income is exempt from tax. — Этот доход не облагается налогом.
 - No one is exempt from these rules. — Эти правила распространяются на всех.
+<!--SR:!2026-11-25,3,230-->
 
 neglect
 ?
@@ -2753,7 +2760,7 @@ neglect
 - Don't neglect your health. — Не пренебрегай своим здоровьем.
 - The garden had been neglected for years. — За садом годами не ухаживали.
 - The building fell into disrepair through neglect. — Здание обветшало из-за отсутствия ухода.
-<!--SR:!2026-11-21,1,230-->
+<!--SR:!2026-11-24,3,250-->
 
 flange
 ?
@@ -2761,6 +2768,7 @@ flange
 - The pipe has a flange at each end. — На каждом конце трубы есть фланец.
 - Tighten the bolts on the flange. — Затяни болты на фланце.
 - The gasket fits between the two flanges. — Прокладка устанавливается между двумя фланцами.
+<!--SR:!2026-11-26,3,250-->
 
 reimbursement
 ?
@@ -2768,6 +2776,7 @@ reimbursement
 - Keep your receipts for reimbursement. — Сохрани чеки для возмещения расходов.
 - I applied for reimbursement of my travel costs. — Я подал заявление на возмещение расходов на поездку.
 - She received full reimbursement. — Ей полностью возместили расходы.
+<!--SR:!2026-11-25,3,250-->
 
 fur
 ?
@@ -2775,7 +2784,7 @@ fur
 - The cat has soft fur. — У кошки мягкая шерсть.
 - His coat was lined with fur. — Его пальто было на меховой подкладке.
 - The dog's fur was wet. — Шерсть собаки была мокрой.
-<!--SR:!2026-11-21,1,230-->
+<!--SR:!2026-11-24,3,250-->
 
 extinct
 ?
@@ -2783,6 +2792,7 @@ extinct
 - The dodo is extinct. — Дронт вымер.
 - Many species have become extinct. — Многие виды вымерли.
 - The village sits near an extinct volcano. — Деревня находится рядом с потухшим вулканом.
+<!--SR:!2026-11-25,3,230-->
 
 stranded
 ?
@@ -2790,6 +2800,7 @@ stranded
 - We were stranded at the airport. — Мы застряли в аэропорту.
 - The storm left tourists stranded on the island. — Из-за шторма туристы не могли покинуть остров.
 - Use stranded wire for better flexibility. — Для большей гибкости используй многопроволочный провод.
+<!--SR:!2026-11-24,1,170-->
 
 endurance
 ?
@@ -2797,6 +2808,7 @@ endurance
 - Running helps build endurance. — Бег помогает развивать выносливость.
 - The race tested her endurance. — Гонка стала испытанием её выносливости.
 - He showed great endurance during the climb. — Во время восхождения он проявил большую выносливость.
+<!--SR:!2026-11-25,4,270-->
 
 Social bonds
 ?
@@ -2804,6 +2816,7 @@ Social bonds
 - Shared meals strengthen social bonds. — Совместные обеды укрепляют социальные связи.
 - Strong social bonds help us cope with stress. — Крепкие связи с людьми помогают справляться со стрессом.
 - Moving abroad can weaken social bonds. — Переезд за границу может ослабить социальные связи.
+<!--SR:!2026-11-25,3,250-->
 
 devour
 ?
@@ -2811,6 +2824,7 @@ devour
 - He devoured his lunch in minutes. — Он съел обед за считанные минуты.
 - She devoured the novel in one night. — Она прочитала роман запоем за одну ночь.
 - The flames devoured the wooden house. — Пламя поглотило деревянный дом.
+<!--SR:!2026-11-25,4,270-->
 
 intimidating
 ?
@@ -2818,6 +2832,7 @@ intimidating
 - The interview seemed intimidating at first. — Поначалу собеседование казалось пугающим.
 - He has an intimidating presence. — Рядом с ним люди чувствуют себя неуверенно.
 - Speaking to a large crowd can be intimidating. — Выступать перед большой аудиторией бывает страшно.
+<!--SR:!2026-11-25,3,230-->
 
 harsh
 ?
@@ -2825,3 +2840,110 @@ harsh
 - The winters here are harsh. — Зимы здесь суровые.
 - His words sounded harsh. — Его слова прозвучали резко.
 - Avoid harsh cleaning products. — Избегай агрессивных чистящих средств.
+<!--SR:!2026-11-25,3,250-->
+
+amend
+?
+вносить поправки, исправлять (документ, закон или текст)
+- We need to amend the contract. — Нам нужно внести поправки в договор.
+- She amended her report. — Она исправила свой отчёт.
+- The law was amended last year. — В прошлом году в закон внесли поправки.
+
+amendment
+?
+поправка, изменение или дополнение к документу, закону
+- They proposed an amendment to the law. — Они предложили поправку к закону.
+- The amendment was approved. — Поправку одобрили.
+- We signed an amendment to the contract. — Мы подписали дополнение к договору.
+
+apparel
+?
+одежда (часто в торговле и названиях категорий товаров)
+- The store sells outdoor apparel. — В магазине продают одежду для активного отдыха.
+- She designs sports apparel. — Она разрабатывает спортивную одежду.
+- Winter apparel is on sale. — Зимняя одежда продаётся со скидкой.
+
+adverse
+?
+неблагоприятный, вредный; мешающий успеху
+- The flight was delayed by adverse weather. — Рейс задержали из-за неблагоприятной погоды.
+- The medicine had adverse effects. — Лекарство вызвало нежелательные эффекты.
+- They succeeded despite adverse conditions. — Они добились успеха вопреки неблагоприятным условиям.
+
+adjacent
+?
+соседний, прилегающий, расположенный рядом (adjacent to)
+- We booked adjacent rooms. — Мы забронировали соседние номера.
+- The car park is adjacent to the station. — Парковка находится рядом с вокзалом.
+- They bought the adjacent plot of land. — Они купили соседний земельный участок.
+
+acute
+?
+острый, сильный; крайне серьёзный (о проблеме); проницательный
+- She felt acute pain in her back. — Она почувствовала острую боль в спине.
+- The city faces an acute housing shortage. — Город испытывает острую нехватку жилья.
+- He has an acute sense of hearing. — У него очень тонкий слух.
+
+accusation
+?
+обвинение; заявление о том, что кто-либо сделал что-то плохое
+- She denied the accusation. — Она отвергла обвинение.
+- He made a false accusation. — Он выдвинул ложное обвинение.
+- The accusation came as a shock. — Обвинение стало полной неожиданностью.
+
+accountability
+?
+ответственность за свои решения и обязанность отчитываться за результат; подотчётность
+- The team needs clear accountability. — В команде должно быть ясно, кто за что отвечает.
+- Voters demanded greater accountability. — Избиратели потребовали большей подотчётности.
+- The new rules improve financial accountability. — Новые правила повышают подотчётность в финансовых вопросах.
+
+Abolish
+?
+упразднять, отменять (закон, систему или практику)
+- They voted to abolish the tax. — Они проголосовали за отмену налога.
+- The country abolished slavery. — Страна отменила рабство.
+- The old system was abolished. — Старую систему упразднили.
+
+aftermath
+?
+последствия тяжёлого события; период сразу после него
+- They rebuilt their home in the aftermath of the flood. — Они восстановили дом после наводнения.
+- The town struggled with the aftermath of the storm. — Город с трудом справлялся с последствиями бури.
+- She helped families in the aftermath of the fire. — После пожара она помогала пострадавшим семьям.
+
+gig
+?
+выступление музыканта; разовая работа, временная подработка (разговорное)
+- The band has a gig tonight. — У группы сегодня вечером выступление.
+- I got a weekend gig at a cafe. — Я нашёл подработку в кафе на выходные.
+- She does freelance gigs online. — Она выполняет разовые заказы в интернете.
+
+humble
+?
+скромный, не заносчивый; простой, небогатый
+- He stayed humble despite his success. — Несмотря на успех, он остался скромным.
+- She comes from a humble background. — Она из простой семьи.
+- In my humble opinion, it's too expensive. — По моему скромному мнению, это слишком дорого.
+<!--SR:!2026-11-24,1,230-->
+
+inquire
+?
+спрашивать, справляться, узнавать (часто вежливо или официально)
+- I called to inquire about the price. — Я позвонил узнать цену.
+- She inquired whether any rooms were available. — Она спросила, есть ли свободные номера.
+- He inquired after your health. — Он поинтересовался твоим здоровьем.
+
+utterly
+?
+совершенно, абсолютно, до крайности
+- I was utterly exhausted. — Я был совершенно измотан.
+- That's utterly ridiculous. — Это совершенно нелепо.
+- She felt utterly alone. — Она чувствовала себя совершенно одинокой.
+
+deity
+?
+божество, бог или богиня
+- The temple was dedicated to a local deity. — Храм был посвящён местному божеству.
+- They worshipped several deities. — Они поклонялись нескольким божествам.
+- The statue depicts a deity. — Статуя изображает божество.
